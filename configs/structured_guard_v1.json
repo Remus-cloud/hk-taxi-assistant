@@ -1,0 +1,9 @@
+{
+  "version": "structured-guard-v1",
+  "approval_status": "approved",
+  "authorization": "User approved all seven review rules, evidence and priority strategy; approved unified implementation and offline replay only.",
+  "database": "data/processed/structured_rule_guard_v1.duckdb",
+  "execution_scope": "rule explanation and response guard only; no surcharge total settlement",
+  "verified_as_of": "2026-10-15",
+  "original_review_preserved": true
+}

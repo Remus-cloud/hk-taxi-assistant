@@ -1,0 +1,440 @@
+{
+  "fare_urban-34049e5ab444": {
+    "topics": [
+      "fare_schedule",
+      "luggage_amount",
+      "actual_fare_conditions"
+    ],
+    "fare_categories": [
+      "urban"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "fare_nt-0d881f0fa13a": {
+    "topics": [
+      "fare_schedule",
+      "luggage_amount",
+      "actual_fare_conditions"
+    ],
+    "fare_categories": [
+      "nt"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "fare_lantau-f9fcd2cc5648": {
+    "topics": [
+      "fare_schedule",
+      "luggage_amount",
+      "actual_fare_conditions"
+    ],
+    "fare_categories": [
+      "lantau"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "luggage_conditions-107737d6d42e": {
+    "topics": [
+      "luggage_conditions"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "receipt-42d6ba929394": {
+    "topics": [
+      "receipt"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "change-d751c19583e6": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "taxi_role-f5753a8f9718": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "operating_areas-9c3f08071f9b": {
+    "topics": [
+      "operating_scope"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "passenger_records-9f5f453afbc9": {
+    "topics": [
+      "receipt"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "meter_basis-3ba67572f68c": {
+    "topics": [
+      "actual_fare_conditions",
+      "meter_basis"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "payment_requirement-d1c58f61512f": {
+    "topics": [
+      "payment_requirement"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "pay_qr_definition-9719a8e4884b": {
+    "topics": [
+      "payment_definition"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "pay_check_methods-31f4a4f2e609": {
+    "topics": [
+      "payment_method_check"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "pay_card_not_accepted-f931cc765e0c": {
+    "topics": [
+      "payment_card_fallback"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "pay_cash_required-ecc89ef6d693": {
+    "topics": [
+      "payment_cash"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "pay_mismatch-37541c324763": {
+    "topics": [
+      "payment_mismatch"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "pay_report_missing-6ce8ae699511": {
+    "topics": [
+      "payment_report"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "pay_device_failure-3eaf9b55dc34": {
+    "topics": [
+      "payment_requirement",
+      "payment_device_failure"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "passenger_conduct-5f41acf5fd46": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "passenger_feedback_contacts-16584e159fe5": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "airport_record-cc5d29c5f8d9": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "airport_estimate_scope-ea972af95836": {
+    "topics": [
+      "estimate_context"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "hkzmb_estimate_scope-ea972af95836": {
+    "topics": [
+      "estimate_context"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "airport_guide_reference_zone_1-278ac35930fd": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "airport_guide_reference_zone_2-6b7947aff09f": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "airport_guide_reference_zone_3-461aebb47e73": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban",
+      "nt"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "airport_guide_reference_zone_4-01f1d4781087": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban",
+      "nt"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "airport_guide_reference_zone_5-bdd1174477cc": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban",
+      "nt",
+      "lantau"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "airport_guide_reference_zone_6-4367c96ccdd4": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "lantau"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "hkzmb_guide_reference_zone_1-178950626004": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "hkzmb_guide_reference_zone_2-a31027c8eddc": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban",
+      "nt"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "hkzmb_guide_reference_zone_4-7bea09a33440": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban",
+      "nt"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "hkzmb_guide_reference_zone_5-c56b8002271c": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "urban",
+      "nt",
+      "lantau"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "hkzmb_guide_reference_zone_6-e34fb0652acd": {
+    "topics": [
+      "route_reference"
+    ],
+    "fare_categories": [
+      "lantau"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "official_three_category_fares-b9b2ed02cf7f": {
+    "topics": [
+      "fare_schedule",
+      "luggage_amount",
+      "actual_fare_conditions"
+    ],
+    "fare_categories": [
+      "urban",
+      "nt",
+      "lantau"
+    ],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "west_kowloon_estimate_conditions-149219165e75": {
+    "topics": [
+      "estimate_context"
+    ],
+    "fare_categories": [],
+    "review_basis": "Manually verified source section; independent of evaluation labels. Empty category list denotes a general rule, not an inferred taxi category."
+  },
+  "px1_nt_operating_details-9030912fbfd8": {
+    "topics": [
+      "operating_scope"
+    ],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_wek_normal-82f064544468": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_wek_booked-81dbbdd19e52": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_wek_ticket-a47929243a82": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_fleet_booking-1411470421aa": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_fleet_identify-b9637b647f80": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_fleet_fare_modes-326ffe1560c6": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_fleet_stops_purpose-a57e44fc72b9": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_fleet_stops_locations-ef12d4ebf1c9": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_airport_pickup_modes-ad33d5335698": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_airport_queues-a9d6e1fe3bc0": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_guidedog_identity-7e5194762c15": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_guidedog_legal_scope-9dc7b6b558cb": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_guidedog_accommodation-8d358da5f500": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_guidedog_taxi_tips-277e9e92884c": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_guidedog_user_tips-dd51841d4403": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_disability_public_transport-445c2927bdfa": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_capacity-c2dd2808f2a1": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_braille_location-716fdbdc86b3": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_disability_certificate-66219470ae03": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_disability_certificate_apply-f10e17e9da81": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_passenger_assistance-c1b78741c167": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_refusal_out_of_service-2760b50b0236": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_lost_property-b9f2cd784172": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_kaitak_pickup-264c060ce1c3": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_disney_pickup-e4c54ec86f6d": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  },
+  "px1_hyw_taxi_services-ba4f30ca5ab1": {
+    "topics": [],
+    "fare_categories": [],
+    "review_basis": "manual source scope; no numeric fare/receipt/payment/baggage assertion inferred from mere word occurrence"
+  }
+}

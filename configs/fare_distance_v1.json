@@ -1,0 +1,23 @@
+{
+  "approval_status": "approved",
+  "approved_on": "2026-10-15",
+  "authorization": "User approved reviewed tariff, samples and added settings; requested distance calculator implementation.",
+  "execution_scope": "urban_distance_only",
+  "waiting_enabled": false,
+  "surcharges_enabled": false,
+  "tolls_enabled": false,
+  "rule": {
+    "version_id": "urban-distance-20240714-v1",
+    "effective_from": "2024-07-14",
+    "verified_as_of": "2026-10-15",
+    "source_url": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/taxi/taxi_fare_of_hong_kong/",
+    "base_distance_m": 2000,
+    "base_fare_cent": 2900,
+    "increment_distance_m": 200,
+    "meter_threshold_cent": 10250,
+    "increment_before_threshold_cent": 210,
+    "increment_after_threshold_cent": 140
+  },
+  "distance_input_policy": "Decimal metres; positive; ceil only after initial 2000 m; no hidden tolerance.",
+  "limitation": "Rule-based estimate, not an exact taximeter simulation or final payable quote."
+}

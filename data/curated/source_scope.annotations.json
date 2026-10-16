@@ -1,0 +1,848 @@
+{
+  "fare_urban-34049e5ab444": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "fare_nt-0d881f0fa13a": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "fare_lantau-f9fcd2cc5648": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "luggage_conditions-107737d6d42e": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "receipt-42d6ba929394": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "change-d751c19583e6": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "taxi_role-f5753a8f9718": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "operating_areas-9c3f08071f9b": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "passenger_records-9f5f453afbc9": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "meter_basis-3ba67572f68c": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "payment_requirement-d1c58f61512f": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "pay_qr_definition-9719a8e4884b": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "pay_check_methods-31f4a4f2e609": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "pay_card_not_accepted-f931cc765e0c": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "pay_cash_required-ecc89ef6d693": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "pay_mismatch-37541c324763": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "pay_report_missing-6ce8ae699511": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "pay_device_failure-3eaf9b55dc34": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "passenger_conduct-5f41acf5fd46": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "passenger_feedback_contacts-16584e159fe5": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "airport_record-cc5d29c5f8d9": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "airport_estimate_scope-ea972af95836": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "hkzmb_estimate_scope-ea972af95836": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "airport_guide_reference_zone_1-278ac35930fd": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "airport_guide_reference_zone_2-6b7947aff09f": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "airport_guide_reference_zone_3-461aebb47e73": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "airport_guide_reference_zone_4-01f1d4781087": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "airport_guide_reference_zone_5-bdd1174477cc": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "airport_guide_reference_zone_6-4367c96ccdd4": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "hkzmb_guide_reference_zone_1-178950626004": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "hkzmb_guide_reference_zone_2-a31027c8eddc": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "hkzmb_guide_reference_zone_4-7bea09a33440": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "hkzmb_guide_reference_zone_5-c56b8002271c": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "hkzmb_guide_reference_zone_6-e34fb0652acd": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "official_three_category_fares-b9b2ed02cf7f": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "west_kowloon_estimate_conditions-149219165e75": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "not newly classified; informational only; no new hard filter"
+  },
+  "px1_nt_operating_details-9030912fbfd8": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [
+      "nt"
+    ],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_wek_normal-82f064544468": {
+    "service_modes": [
+      "street_or_stand"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "ordinary_stand"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_wek_booked-81dbbdd19e52": {
+    "service_modes": [
+      "fleet_prebooked",
+      "ordinary_phone_booking",
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "prebooked_pickup"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_wek_ticket-a47929243a82": {
+    "service_modes": [
+      "street_or_stand"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "ordinary_stand"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_fleet_booking-1411470421aa": {
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_fleet_identify-b9637b647f80": {
+    "service_modes": [
+      "street_or_stand",
+      "ordinary_phone_booking",
+      "fleet_prebooked"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_fleet_fare_modes-326ffe1560c6": {
+    "service_modes": [
+      "street_or_stand",
+      "fleet_prebooked"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_fleet_stops_purpose-a57e44fc72b9": {
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "fleet_prebooked_pickup"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_fleet_stops_locations-ef12d4ebf1c9": {
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "fleet_prebooked_pickup"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_airport_pickup_modes-ad33d5335698": {
+    "service_modes": [
+      "street_or_stand",
+      "ordinary_phone_booking",
+      "fleet_prebooked"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "ordinary_stand",
+      "prebooked_pickup"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_airport_queues-a9d6e1fe3bc0": {
+    "service_modes": [
+      "street_or_stand"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "ordinary_stand"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_guidedog_identity-7e5194762c15": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "guide_dog",
+      "guide_dog_in_training"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_guidedog_legal_scope-9dc7b6b558cb": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "guide_dog"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_guidedog_accommodation-8d358da5f500": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "guide_dog",
+      "guide_dog_in_training"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_guidedog_taxi_tips-277e9e92884c": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "guide_dog"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_guidedog_user_tips-dd51841d4403": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "guide_dog"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_disability_public_transport-445c2927bdfa": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "guide_dog"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_capacity-c2dd2808f2a1": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_braille_location-716fdbdc86b3": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_disability_certificate-66219470ae03": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_disability_certificate_apply-f10e17e9da81": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_passenger_assistance-c1b78741c167": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_refusal_out_of_service-2760b50b0236": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_lost_property-b9f2cd784172": {
+    "service_modes": [
+      "unknown"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_kaitak_pickup-264c060ce1c3": {
+    "service_modes": [
+      "street_or_stand"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "ordinary_stand"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_disney_pickup-e4c54ec86f6d": {
+    "service_modes": [
+      "street_or_stand"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "ordinary_stand"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  },
+  "px1_hyw_taxi_services-ba4f30ca5ab1": {
+    "service_modes": [
+      "street_or_stand",
+      "fleet_prebooked"
+    ],
+    "animal_roles": [
+      "unknown"
+    ],
+    "facility_kinds": [
+      "ordinary_stand",
+      "fleet_prebooked_pickup"
+    ],
+    "taxi_type_scope": [],
+    "basis": "approved proposal represented as source annotations only; values are not identical legal entitlements; no hard filtering or session state change"
+  }
+}

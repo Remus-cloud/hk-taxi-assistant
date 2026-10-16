@@ -1,0 +1,14 @@
+{
+  "version": "passenger-web-pretrained-v1",
+  "approval": "user requested pretrained reranker as system default",
+  "controller": "hk_taxi.unified_passenger_v2.UnifiedAssistant",
+  "knowledge_base_chunks": 64,
+  "reranker": "pretrained",
+  "model_id": "BAAI/bge-reranker-v2-m3",
+  "model_revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+  "environment": ".venv",
+  "final_top_k": 5,
+  "topic_protection": "unchanged",
+  "waiting_enabled": false,
+  "other_road_tolls_enabled": false
+}

@@ -1,0 +1,509 @@
+{
+  "version": "passenger-sources-v1",
+  "sources": [
+    {
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/taxi_fare_of_hong_kong/index.html",
+      "raw_sha256": "4732ca19efb3cfd6c7dfc0b1e19b14bba259dbadf93e0b12f4fdf00fa79e2bfb",
+      "chunks": [
+        {
+          "chunk_id": "fare_urban-34049e5ab444",
+          "title": "市區的士收費表",
+          "locator": "table:市區的士收費表",
+          "text_sha256": "d0ecf2c1fb9ea91ccd5792836fed09b3409ce15a983bb889199aa31182b81b34"
+        },
+        {
+          "chunk_id": "fare_nt-0d881f0fa13a",
+          "title": "新界的士收費表",
+          "locator": "table:新界的士收費表",
+          "text_sha256": "1de60e235e80c5419d0c6266a2079846ff325b1b396d5503f834a3dc28a9e818"
+        },
+        {
+          "chunk_id": "fare_lantau-f9fcd2cc5648",
+          "title": "大嶼山的士收費表",
+          "locator": "table:大嶼山的士收費表",
+          "text_sha256": "7d88e0d9967dceff7e36ec82bef95bfc9936c2e3912cd0c93f1c0a26b0112516"
+        },
+        {
+          "chunk_id": "luggage_conditions-107737d6d42e",
+          "title": "行李附加費",
+          "locator": "passenger_notice:1",
+          "text_sha256": "37d3b0dc2589582117eb0ffdf22844e377780de7b97f5d38afd4c8fb83eb9729"
+        },
+        {
+          "chunk_id": "receipt-42d6ba929394",
+          "title": "車費收據",
+          "locator": "passenger_notice:2",
+          "text_sha256": "e638ed8d77ee860c254f8f4cee446ed4dda136522f145dc029ad420bb206630c"
+        },
+        {
+          "chunk_id": "change-d751c19583e6",
+          "title": "車費找續",
+          "locator": "passenger_notice:3",
+          "text_sha256": "4555d1e0a67ae9ae8bf3b1a8827cf79befa79ad1b64351ed33ae032dbb6d54c2"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/index.html",
+      "raw_sha256": "07fac616a347fcefba920088c350be4810c78a254cdca8ad4507af004930ec2d",
+      "chunks": [
+        {
+          "chunk_id": "taxi_role-f5753a8f9718",
+          "title": "的士的角色",
+          "locator": "heading:的士的角色",
+          "text_sha256": "a2dc2b30eea83a6a066b2234a8489975cabb186ccb948ae9dfc56ffc5ec1300c"
+        },
+        {
+          "chunk_id": "operating_areas-9c3f08071f9b",
+          "title": "的士經營範圍",
+          "locator": "heading:的士經營範圍",
+          "text_sha256": "a925a9c6696681787867d67b6a75ffa51325958484f76f8ce89e9a0ddb0c42ae"
+        },
+        {
+          "chunk_id": "passenger_records-9f5f453afbc9",
+          "title": "做個精明的士乘客",
+          "locator": "heading:做個精明的士乘客",
+          "text_sha256": "4eb4daaa3796a52a3d78ccd8380e9d8edbc073671325e3604965b2128e108f3e"
+        },
+        {
+          "chunk_id": "meter_basis-3ba67572f68c",
+          "title": "按錶收費",
+          "locator": "heading:的士收費:paragraph:1",
+          "text_sha256": "23a158da5380468e5352940609f90af1b6ea2d9599638f9821943c20bfb2d4a0"
+        },
+        {
+          "chunk_id": "payment_requirement-d1c58f61512f",
+          "title": "電子繳費媒介",
+          "locator": "paragraph:電子繳費媒介",
+          "text_sha256": "bea02c431f97ba0a6474ab4418af9258a9d77e1b6c34944e4b7904860fb0ac8a"
+        },
+        {
+          "chunk_id": "px1_lost_property-b9f2cd784172",
+          "title": "乘客在的士遺下物件：網上登記與運輸署協助",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"p\", \"match_index\": 36}",
+          "text_sha256": "9d519a8cc7e11061989703f9453fc8031399c442ca712829d9d800851c168fb5"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/filemanager/tc/content_276/FAQ.pdf",
+      "raw_sha256": "bceb22c84c665ebfc48f28f9e4ae55bec765bd5f195f00a7788dd7196b9145ba",
+      "chunks": [
+        {
+          "chunk_id": "pay_qr_definition-9719a8e4884b",
+          "title": "「二維碼」同「非二維碼」電子支付即係乜嘢？",
+          "locator": "PDF page 2: 「二維碼」同「非二維碼」電子支付即係乜嘢？",
+          "text_sha256": "2c9c29fe246c47286b0607c86de76593be6c0ffb00583817efd8aec47f4eca43"
+        },
+        {
+          "chunk_id": "pay_check_methods-31f4a4f2e609",
+          "title": "點樣知道司機提供邊款電子支付方式？",
+          "locator": "PDF page 3: 點樣知道司機提供邊款電子支付方式？",
+          "text_sha256": "419fe72e342c139557634b33228ac73d809472e09b2f807dfd2c06bce28d3dd1"
+        },
+        {
+          "chunk_id": "pay_card_not_accepted-f931cc765e0c",
+          "title": "想用信用卡付款，但司機話唔收嘅？",
+          "locator": "PDF page 4: 想用信用卡付款，但司機話唔收嘅？",
+          "text_sha256": "3a80a7963f499c554bb99b7ad94ab9fe88b42106bc7e5274f0a4fe468b89f745"
+        },
+        {
+          "chunk_id": "pay_cash_required-ecc89ef6d693",
+          "title": "司機提供電子支付方式後，唔收現金得唔得？",
+          "locator": "PDF page 5: 司機提供電子支付方式後，唔收現金得唔得？",
+          "text_sha256": "c3e4b65214d4a863b5338c67973512952e558066211ef3f2195ce03fa6d3190c"
+        },
+        {
+          "chunk_id": "pay_mismatch-37541c324763",
+          "title": "如果司機同乘客嘅電子支付方式唔同，乘客可以唔畀車資？",
+          "locator": "PDF page 5: 如果司機同乘客嘅電子支付方式唔同，乘客可以唔畀車資？",
+          "text_sha256": "f8660c203628021fccb6b40f4c65fa62eb1e16a3f2d9a1b561ab40c93f7c7499"
+        },
+        {
+          "chunk_id": "pay_report_missing-6ce8ae699511",
+          "title": "如果司機無提供電子支付方式，乘客可以點做？",
+          "locator": "PDF page 6: 如果司機無提供電子支付方式，乘客可以點做？",
+          "text_sha256": "cb9d46d8b134dd306c21674be2d0dacb733e5251968f8d51c103edfc677f2a39"
+        },
+        {
+          "chunk_id": "pay_device_failure-3eaf9b55dc34",
+          "title": "如果提供電子支付方式嘅裝置壞機，司機應該點做？",
+          "locator": "PDF page 6: 如果提供電子支付方式嘅裝置壞機，司機應該點做？",
+          "text_sha256": "48a35c49dae2bff0f4c5f70962fc99b668ef7e3286b503b7c2951de7adf1ed14"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/filemanager/tc/content_276/202306_Leaflet%20for%20Taxi%20Passengers.pdf",
+      "raw_sha256": "dd554a9dfb6200ce6bde61384773cc302d9431df0248f7852f0e3918a3ce656b",
+      "chunks": [
+        {
+          "chunk_id": "passenger_conduct-5f41acf5fd46",
+          "title": "的士乘客做得到",
+          "locator": "PDF page 2: 的士乘客做得到",
+          "text_sha256": "d6499d71ac9e2504cff70c7940ed1094f2e929588af90849799ee82775b78cdf"
+        },
+        {
+          "chunk_id": "passenger_feedback_contacts-16584e159fe5",
+          "title": "乘客如何表揚的士司機或投訴的士服務？",
+          "locator": "PDF page 4: 乘客如何表揚的士司機或投訴的士服務？",
+          "text_sha256": "6f3b8df6dae045434d4635a583545f58f7009c54760a16697e1c88a83924ad14"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/filemanager/tc/content_276/202207_airport.pdf",
+      "raw_sha256": "19fac68cea6aea65c3e66e05f2f7c462077c76736073ecae7c85c8ef57362dac",
+      "chunks": [
+        {
+          "chunk_id": "airport_record-cc5d29c5f8d9",
+          "title": "機場的士乘客存根",
+          "locator": "PDF page 1: 機場的士乘客存根",
+          "text_sha256": "7a5fcc048c75f960e12a4121ed3d883492b41c516f4a7a97da1be781b2163beb"
+        },
+        {
+          "chunk_id": "airport_estimate_scope-ea972af95836",
+          "title": "由香港機場至香港其他地方大約收費的適用說明",
+          "locator": "PDF page 2: 由香港機場至香港其他地方大約收費的適用說明",
+          "text_sha256": "334726ae4a360e694fee6b7276a75653f8838ce92062ce015dd28ca278784e46"
+        },
+        {
+          "chunk_id": "airport_guide_reference_zone_1-278ac35930fd",
+          "title": "香港機場出發：香港島參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 香港島",
+          "text_sha256": "86797d2d96856bfe224e264b655249ad015a91bb82a4ba6cde7743ecdf4c401f"
+        },
+        {
+          "chunk_id": "airport_guide_reference_zone_2-6b7947aff09f",
+          "title": "香港機場出發：九龍參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 九龍",
+          "text_sha256": "00c70256f5fee4b227778973107f248229a861b770272c2d9cb5d6f272f26a46"
+        },
+        {
+          "chunk_id": "airport_guide_reference_zone_3-461aebb47e73",
+          "title": "香港機場出發：新界西北參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 新界西北",
+          "text_sha256": "bc19ea86c1cf6d164bbd23e9fb25870d8b7efc6546b5e2a9b983043a1ef96423"
+        },
+        {
+          "chunk_id": "airport_guide_reference_zone_4-01f1d4781087",
+          "title": "香港機場出發：新界東北及其他參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 新界東北及其他",
+          "text_sha256": "6a1d111c6b62766d81fa8a37532aa258baae70ccd98c43df585a9786a003b322"
+        },
+        {
+          "chunk_id": "airport_guide_reference_zone_5-bdd1174477cc",
+          "title": "香港機場出發：北大嶼山參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 北大嶼山",
+          "text_sha256": "559c21e48dab606609c419c7be71d3c615bbbd5e468fcaf9ca4a54e35cffa67d"
+        },
+        {
+          "chunk_id": "airport_guide_reference_zone_6-4367c96ccdd4",
+          "title": "香港機場出發：南大嶼山參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 南大嶼山",
+          "text_sha256": "1fc400911b28167b473dad2dbd2d2858c94806a8990d0a0574c9a6c3c30e189e"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/filemanager/tc/content_276/202305_hkzmb_chi.pdf",
+      "raw_sha256": "dd89d9fdc1cc867b82f89de36a3858a133150feed082e6a3e23f7b6316eea8f9",
+      "chunks": [
+        {
+          "chunk_id": "hkzmb_estimate_scope-ea972af95836",
+          "title": "由港珠澳大橋香港口岸至香港其他地方大約收費的適用說明",
+          "locator": "PDF page 2: 由港珠澳大橋香港口岸至香港其他地方大約收費的適用說明",
+          "text_sha256": "205534fc6f68963c80be831a397dffd4c5a9bc9c81bd83f62265643abe43e4d0"
+        },
+        {
+          "chunk_id": "hkzmb_guide_reference_zone_1-178950626004",
+          "title": "港珠澳大橋香港口岸出發：香港島參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 香港島",
+          "text_sha256": "108826e2d22e8d1cdf65edfc50e7c4ffafafc7a030ea5bf1cb553a405c4afe94"
+        },
+        {
+          "chunk_id": "hkzmb_guide_reference_zone_2-a31027c8eddc",
+          "title": "港珠澳大橋香港口岸出發：九龍參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 九龍",
+          "text_sha256": "567fd696affcb138a5a37eca79ee392f1d3538e727f6fa264990821f9f86942a"
+        },
+        {
+          "chunk_id": "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+          "title": "港珠澳大橋香港口岸出發：新界西北參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 新界西北",
+          "text_sha256": "c8a2efe2216ef6be950cdd792eb35db29c186dd5a804959c7f3f8a0ed033aaea"
+        },
+        {
+          "chunk_id": "hkzmb_guide_reference_zone_4-7bea09a33440",
+          "title": "港珠澳大橋香港口岸出發：新界東北及其他參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 新界東北及其他",
+          "text_sha256": "876f500203772eb417e86c02e3abf36501b80f349b2a97d678e3ba3e01179b44"
+        },
+        {
+          "chunk_id": "hkzmb_guide_reference_zone_5-c56b8002271c",
+          "title": "港珠澳大橋香港口岸出發：北大嶼山參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 北大嶼山",
+          "text_sha256": "67bed0af98904b099ceb4cd7db0d501811b3dd1fdaa5d9036990263655660246"
+        },
+        {
+          "chunk_id": "hkzmb_guide_reference_zone_6-e34fb0652acd",
+          "title": "港珠澳大橋香港口岸出發：南大嶼山參考估價（更新日期不明）",
+          "locator": "PDF page 2, Chinese destination table: 南大嶼山",
+          "text_sha256": "f68121627dcf66ee35c66c63a5aa413bae393dc9167ac84161abf90148b5f8dd"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.info.gov.hk/gia/general/202407/13/P2024071200502.htm",
+      "raw_sha256": "bf2e830f38720a9a762d405195b6df68ade9a5b9be79f2274630be444ab2c3c3",
+      "chunks": [
+        {
+          "chunk_id": "official_three_category_fares-b9b2ed02cf7f",
+          "title": "的士新收費七月十四日起生效：三類的士收費表",
+          "locator": "pressrelease > table and immediately following additional-fare paragraph",
+          "text_sha256": "1ef0c21e29ac78d5a6d4e4536a50cc8fe5cb2e09476bfb955c0f0e2d699166bd"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/filemanager/tc/content_276/202207_westkowloon.pdf",
+      "raw_sha256": "001841999ea5743ae1275d0b8be6bcdd9ed7496a23b34f4f472acb783913a53f",
+      "chunks": [
+        {
+          "chunk_id": "west_kowloon_estimate_conditions-149219165e75",
+          "title": "西九龍高鐵站大約車費：車程、行李及等候費用的參考說明",
+          "locator": "PDF page 2, Chinese estimate explanatory paragraph",
+          "text_sha256": "e131bd5384c1df2201e32a9d1b149b2339d2586c34f89d283a5558bc59e2dc00"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/details_of_taxi_operating_areas_/index.html",
+      "raw_sha256": "5a0dccaf726279b808b39bd96d6abeb23cd7e1d606367124cc80369d281c3c23",
+      "chunks": [
+        {
+          "chunk_id": "px1_nt_operating_details-9030912fbfd8",
+          "title": "新界的士（綠色）：詳細經營範圍、指定地點與路線",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"p\", \"match_index\": 3}",
+          "text_sha256": "03373252c289c661eb9a1d80bb2ef8a77e4c7ed7659ccaf477bc887e04f2196a"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.highspeed.mtr.com.hk/tc/guide/wek.html",
+      "raw_sha256": "b985e227101e18f22bb369d0171c5812b31126e8375783da8d266faa2c05dfa0",
+      "chunks": [
+        {
+          "chunk_id": "px1_wek_normal-82f064544468",
+          "title": "香港西九龍站：普通的士上落客樓層",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"p\", \"match_index\": 15}",
+          "text_sha256": "b4bd543c601349881ce362ca07d1af6da5fe9bbac6f4354dd14cd7c8f0ef3f47"
+        },
+        {
+          "chunk_id": "px1_wek_booked-81dbbdd19e52",
+          "title": "香港西九龍站：已預約的士或車輛候車位置",
+          "locator": "{\"kind\": \"html_text_node\", \"selector\": \"p\", \"match_index\": 17, \"child_index\": 0}",
+          "text_sha256": "0821bf0957f3fe66ae6850b88f9a665b4cbccaadc66788ce6ffaacb08cd9e1c1"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.highspeed.mtr.com.hk/tc/latest-news/priority-lane.html",
+      "raw_sha256": "b88a38926146c0e6c5c97a0ba570efdff46274256d9e7ad32bf5ae3cd27ff023",
+      "chunks": [
+        {
+          "chunk_id": "px1_wek_ticket-a47929243a82",
+          "title": "香港西九龍站：的士自助取號及領取途徑",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"p\", \"match_index\": 2}",
+          "text_sha256": "a366597ffc39a166a57e2bc4e021d7551ac9e58ca5dc8ff9b6e73761fa84a129"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/tfli2024/index.html",
+      "raw_sha256": "e0cccba6510f3d3da491b54f3ac2f7da93748e63b3e3192421c50362da8dd945",
+      "chunks": [
+        {
+          "chunk_id": "px1_fleet_booking-1411470421aa",
+          "title": "的士車隊：預約渠道與選擇車輛類型",
+          "locator": "{\"kind\": \"html_text_node\", \"selector\": \"body\", \"match_index\": 0, \"child_index\": 10}",
+          "text_sha256": "78427205e31fb3797779e07c4cbef12a42f07060dde8e47eb933a2554821aac2"
+        },
+        {
+          "chunk_id": "px1_fleet_identify-b9637b647f80",
+          "title": "的士車隊：識別證明及識別牌營運範圍",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"*\", \"match_index\": 178}",
+          "text_sha256": "79843ef49ffeea6a6b3f5a11e54ee7ccc5d330e1ac15eb89b70f2abe8f109694"
+        },
+        {
+          "chunk_id": "px1_fleet_fare_modes-326ffe1560c6",
+          "title": "車隊的士收費：預定行程與街頭／的士站截乘",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"table\", \"match_index\": 7}",
+          "text_sha256": "8e7f9ee0293f1afb04ed202f5faeb48f8eaa5a4a009e4dccbd830e432d69d7cb"
+        },
+        {
+          "chunk_id": "px1_fleet_stops_purpose-a57e44fc72b9",
+          "title": "車隊的士停車處：接載已預約行程的乘客",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"*\", \"match_index\": 223}",
+          "text_sha256": "74b0ad340f0fc57ab8bd5f82b90bd8527dd49b0b296b1538ff959e357951c9fa"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+      "raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+      "chunks": [
+        {
+          "chunk_id": "px1_fleet_stops_locations-ef12d4ebf1c9",
+          "title": "已預約車隊的士：官方停車處列表",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 1, \"printed_page\": null, \"bbox\": [0.0, 0.0, 595.4400024414062, 841.6799926757812], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/fleet_stops_tc_p1.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "6a5331be70fb5ee29cfb25c052dbe2494207b196dcd10154e64b094da52f42c4"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.hongkongairport.com/iwov-resources/custom/json/transport_taxi_tc.json",
+      "raw_sha256": "516e64060fe297cb54adfd51bcad148beec073e0c53f0299db6d1effecbeecfb",
+      "chunks": [
+        {
+          "chunk_id": "px1_airport_pickup_modes-ad33d5335698",
+          "title": "香港國際機場：普通候車與已預約的士上客區",
+          "locator": "{\"kind\": \"json_html\", \"json_path\": [\"taxis\", \"introduction\", \"description\"], \"paragraph_contains\": \"的士提供點對點\"}",
+          "text_sha256": "0baf6a34044fa5cd1ad376881ac6bd865710563803d930a703137e68b8762cae"
+        },
+        {
+          "chunk_id": "px1_airport_queues-a9d6e1fe3bc0",
+          "title": "香港國際機場的士站：不同類型的士專用輪候處",
+          "locator": "{\"kind\": \"json_html\", \"json_path\": [\"taxis\", \"introduction\", \"description\"], \"paragraph_contains\": \"香港的士按照其指定行駛範圍\"}",
+          "text_sha256": "d7b5b8b237ea42c482570cb8e58faaf6ab9f23c2d7ce2474a1565fd32ba98532"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.eoc.org.hk/Upload/files/Policy%20Frameworks%20and%20Guidelines/Guide%20Dogs/Guide%20Dogs%20-%20A%20Practical%20Guide_%20Text%20Ver%20CHI_Final.pdf",
+      "raw_sha256": "f4ca0b4014765a982c674c181763db71d7859347b4785995dc9d2327ed38ce17",
+      "chunks": [
+        {
+          "chunk_id": "px1_guidedog_identity-7e5194762c15",
+          "title": "導盲犬：識別與適當詢問",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 5, \"printed_page\": \"3\", \"bbox\": [0.0, 0.0, 595.3200073242188, 841.9199829101562], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidedog_text_tc_p5.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "886378d0bf4d0508b5878462cb7dfd49433db5bb892333e81728d4f60a827731"
+        },
+        {
+          "chunk_id": "px1_guidedog_legal_scope-9dc7b6b558cb",
+          "title": "導盲犬與香港《殘疾歧視條例》：指南的法律說明",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 7, \"printed_page\": \"5\", \"bbox\": [0.0, 0.0, 595.3200073242188, 841.9199829101562], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidedog_text_tc_p7.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "07976d3fdf05d6f32689c66b991e04c6eb80bf1fefaf4f2519300e7a992f4689"
+        },
+        {
+          "chunk_id": "px1_guidedog_accommodation-8d358da5f500",
+          "title": "平機會實用要訣：導盲犬合理便利及避免額外收費",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 10, \"printed_page\": \"8\", \"bbox\": [0.0, 0.0, 595.3200073242188, 841.9199829101562], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidedog_text_tc_p10.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "cef5e2760eb92b3afa5073b0814734378abca7da87123f6b42f6d07fbe4cd14d"
+        },
+        {
+          "chunk_id": "px1_guidedog_taxi_tips-277e9e92884c",
+          "title": "平機會建議：導盲犬使用者乘搭的士",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 11, \"printed_page\": \"9\", \"bbox\": [0.0, 0.0, 595.3200073242188, 841.9199829101562], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidedog_text_tc_p11.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "addd2f8c15ced3fdafc44dfc2cb96bed991b694ab2d71604de10b69980b09a8a"
+        },
+        {
+          "chunk_id": "px1_guidedog_user_tips-dd51841d4403",
+          "title": "導盲犬使用者：乘搭的士的安全安頓建議",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 13, \"printed_page\": \"11\", \"bbox\": [0.0, 0.0, 595.3200073242188, 841.9199829101562], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidedog_text_tc_p13.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "8630db11fecad4c741697099ad732041e9d528676773a3a304ac87a39a3c043e"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/tc/road_safety/road_users_code/index/chapter_3_for_passengers/persons_with_disabilities/index.html",
+      "raw_sha256": "aa7c03371be30a4ac8a17cc5c5ce114c90cb4dcea5b1ab36e07d36991b0d8169",
+      "chunks": [
+        {
+          "chunk_id": "px1_disability_public_transport-445c2927bdfa",
+          "title": "視障乘客：導盲犬、摸讀車牌及部分的士發聲咪錶",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"p\", \"match_index\": 5}",
+          "text_sha256": "36c4a41293edfe4f9e5c599cc3697129c490c14aa7ba11b7d8726474dec3dd08"
+        },
+        {
+          "chunk_id": "px1_disability_certificate_apply-f10e17e9da81",
+          "title": "殘疾乘客在限制區上落車證明書：申請及填寫",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"p\", \"match_index\": 22}",
+          "text_sha256": "e42d8254e341cf17456f5c2e3a0757e0cd0fe429bf98560ec082c3d66ba1b8fe"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/filemanager/en/content_276/guidebook.pdf",
+      "raw_sha256": "89ea6268ebdcc2fdd2cbe372e908ab108b8ad8a4b6731d9bb360a2af3aad5f13",
+      "chunks": [
+        {
+          "chunk_id": "px1_capacity-c2dd2808f2a1",
+          "title": "的士載客量：核准座位與兒童計數",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 5, \"printed_page\": \"5\", \"bbox\": [0.0, 0.0, 415.0, 612.0], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidebook_en_p5.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "61688439fd29cd370623d869993feaf10f47fd01998adfd5975784dc605446b8"
+        },
+        {
+          "chunk_id": "px1_braille_location-716fdbdc86b3",
+          "title": "的士點字和摸讀字車輛登記號碼牌的位置",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 8, \"printed_page\": \"11\", \"bbox\": [0.0, 260.0, 415.0, 490.0], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidebook_en_p8.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "460c1fb78c746d27bef02d005374d8d78026464b82e3d0ca0c3b31f42cc1c924"
+        },
+        {
+          "chunk_id": "px1_disability_certificate-66219470ae03",
+          "title": "殘疾乘客在限制區上落車證明書：條件及例外",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 9, \"printed_page\": \"13\", \"bbox\": [0.0, 0.0, 415.0, 612.0], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidebook_en_p9.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "306d21fd192b2ab889f154d6db7bdd794708493fe8e4717761ef56b285086225"
+        },
+        {
+          "chunk_id": "px1_passenger_assistance-c1b78741c167",
+          "title": "的士服務指引：向有需要乘客提供協助",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 13, \"printed_page\": \"21\", \"bbox\": [0.0, 0.0, 415.0, 612.0], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidebook_en_p13.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "c443d38218623540b74a75b7908dbae2fbe190507389752f82627b793b1c2a71"
+        },
+        {
+          "chunk_id": "px1_refusal_out_of_service-2760b50b0236",
+          "title": "的士服務指引：不揀客拒載及暫停載客標誌",
+          "locator": "{\"kind\": \"pdf_text\", \"page\": 15, \"printed_page\": \"25\", \"bbox\": [0.0, 0.0, 415.0, 612.0], \"visual_page\": \"artifacts/passenger_expansion_v1/rendered/guidebook_en_p15.png\", \"visual_review\": \"relevant page reviewed; no map-derived coordinates\"}",
+          "text_sha256": "c1499f2139fb545dd0997a7ee93627808aeb84efcf7501853855ca178879a797"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.kaitakcruiseterminal.com.hk/about-us/getting-here/",
+      "raw_sha256": "fdaccf05a9adfcae57cdd1e1786d87ff10fd587bd24e3ed4817c22ba8c450d68",
+      "chunks": [
+        {
+          "chunk_id": "px1_kaitak_pickup-264c060ce1c3",
+          "title": "Kai Tak Cruise Terminal: taxi pick-up and drop-off",
+          "locator": "{\"kind\": \"web_tool_line\", \"page_url\": \"https://www.kaitakcruiseterminal.com.hk/about-us/getting-here/\", \"line\": 83, \"capture_basis\": \"official URL body extraction; raw origin unavailable/SPA\", \"crawler_as_reported\": \"yesterday\"}",
+          "text_sha256": "5824019824961bf8b2399359e39b70d4f290ace877cccce4d7d8e20a8c4c0efb"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.hongkongdisneyland.com/zh-hk/guest-services/taxi/",
+      "raw_sha256": "fdaccf05a9adfcae57cdd1e1786d87ff10fd587bd24e3ed4817c22ba8c450d68",
+      "chunks": [
+        {
+          "chunk_id": "px1_disney_pickup-e4c54ec86f6d",
+          "title": "香港迪士尼樂園：的士上落站",
+          "locator": "{\"kind\": \"web_tool_line\", \"page_url\": \"https://www.hongkongdisneyland.com/zh-hk/guest-services/taxi/\", \"line\": 15, \"capture_basis\": \"official URL body extraction; raw origin unavailable/SPA\", \"crawler_as_reported\": \"yesterday\"}",
+          "text_sha256": "9ca6a040c3adf1744904467b46a20d2e9fcbe280c9c66da19049e7c4edfd2b5c"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/land_based_cross_boundary_transport/access_to_heung_yuen_wai_control_point/index_t.html",
+      "raw_sha256": "6a1302aa4303480c00021353db1178834e160ed708953052759da2511e90355f",
+      "chunks": [
+        {
+          "chunk_id": "px1_hyw_taxi_services-ba4f30ca5ab1",
+          "title": "香園圍管制站：普通的士類別與車隊預約安排",
+          "locator": "{\"kind\": \"html_dom\", \"selector\": \"table\", \"match_index\": 5}",
+          "text_sha256": "d69a749a152ebb0d4b31e53665ba30daa14be8bf0050275a21e5d5b717dde302"
+        }
+      ]
+    }
+  ]
+}

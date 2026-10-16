@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Proposed RAG answer v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "status",
+    "answer_parts",
+    "clarifying_questions",
+    "limitations"
+  ],
+  "properties": {
+    "status": {
+      "type": "string",
+      "enum": [
+        "answered",
+        "partial_answer",
+        "needs_clarification",
+        "insufficient_evidence",
+        "out_of_scope"
+      ]
+    },
+    "answer_parts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "text",
+          "source_ids"
+        ],
+        "properties": {
+          "text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^S[1-9][0-9]*$"
+            },
+            "uniqueItems": true
+          }
+        }
+      }
+    },
+    "clarifying_questions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "text",
+          "source_ids"
+        ],
+        "properties": {
+          "text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^S[1-9][0-9]*$"
+            },
+            "uniqueItems": true
+          }
+        }
+      }
+    }
+  },
+  "$comment": "Draft local validation schema, not a claim that provider supports strict server-side JSON Schema. Dynamic source-id membership and claim support require separate validation."
+}

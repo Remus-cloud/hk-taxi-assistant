@@ -1,0 +1,30 @@
+{
+  "approval": "user confirmed baseline on 2026-10-15",
+  "corpus": "data/curated/chunks.jsonl",
+  "model_id": "BAAI/bge-m3",
+  "device": "cpu",
+  "dtype": "float32",
+  "normalize_embeddings": true,
+  "query_prefix": null,
+  "keyword_normalization": "OpenCC t2s, lowercase",
+  "keyword_tokens": "Chinese character bigrams; single Chinese characters retained; Latin words and decimal numbers",
+  "bm25_k1": 1.5,
+  "bm25_b": 0.75,
+  "candidate_per_retriever": 10,
+  "final_top_k": 5,
+  "evaluation_k": [
+    3,
+    5,
+    8
+  ],
+  "rrf_k": 60,
+  "rrf_weights": [
+    1,
+    1
+  ],
+  "metadata_policy": "only explicit corpus eligibility; no inferred location/date filters",
+  "reranker": null,
+  "generation_api": null,
+  "rejection_similarity_threshold": null,
+  "model_revision": "5617a9f61b028005a4858fdac845db406aefb181"
+}

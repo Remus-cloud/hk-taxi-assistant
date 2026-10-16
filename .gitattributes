@@ -1,0 +1,2 @@
+# Preserve reviewed file bytes across Git checkouts; runtime inputs are SHA256-pinned.
+* -text

@@ -1,0 +1,24 @@
+{
+  "approved_by": "user",
+  "version": 2,
+  "generic_rule_filter": "exclude numeric reference_estimate only when rule intent is clear and route estimate intent absent",
+  "route_quota": {
+    "reference": 3,
+    "fare_rule": 2
+  },
+  "fallback": "no hard content filtering when ambiguous or mixed",
+  "origin_filter": "exclude only known different origin in route-specific reference content; retain general/unknown metadata",
+  "aliases": {
+    "红的": "市区的士",
+    "红色的士": "市区的士",
+    "红色出租车": "市区的士",
+    "绿的": "新界的士",
+    "绿色的士": "新界的士",
+    "绿色出租车": "新界的士",
+    "蓝的": "大屿山的士",
+    "蓝色的士": "大屿山的士",
+    "蓝色出租车": "大屿山的士",
+    "出租车": "的士"
+  },
+  "llm_router": null
+}

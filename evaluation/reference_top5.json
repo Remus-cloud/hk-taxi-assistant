@@ -1,0 +1,2114 @@
+{
+  "ND-01": {
+    "A": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "hkzmb_guide_reference_zone_4-7bea09a33440",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc"
+    ],
+    "B": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "hkzmb_guide_reference_zone_4-7bea09a33440",
+      "operating_areas-9c3f08071f9b"
+    ]
+  },
+  "ND-02": {
+    "A": [
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_nt_operating_details-9030912fbfd8",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "hkzmb_guide_reference_zone_4-7bea09a33440",
+      "px1_airport_queues-a9d6e1fe3bc0"
+    ],
+    "B": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "operating_areas-9c3f08071f9b"
+    ]
+  },
+  "ND-03": {
+    "A": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "fare_urban-34049e5ab444",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "pay_mismatch-37541c324763",
+      "px1_airport_queues-a9d6e1fe3bc0"
+    ],
+    "B": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "fare_urban-34049e5ab444",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "airport_guide_reference_zone_4-01f1d4781087"
+    ]
+  },
+  "ND-04": {
+    "A": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "hkzmb_guide_reference_zone_4-7bea09a33440",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_fleet_stops_locations-ef12d4ebf1c9"
+    ],
+    "B": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "hkzmb_guide_reference_zone_4-7bea09a33440",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "px1_airport_queues-a9d6e1fe3bc0"
+    ]
+  },
+  "ND-05": {
+    "A": [
+      "px1_wek_ticket-a47929243a82",
+      "px1_wek_normal-82f064544468",
+      "px1_wek_booked-81dbbdd19e52",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "airport_guide_reference_zone_2-6b7947aff09f"
+    ],
+    "B": [
+      "px1_wek_normal-82f064544468",
+      "px1_wek_ticket-a47929243a82",
+      "px1_wek_booked-81dbbdd19e52",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_fleet_stops_locations-ef12d4ebf1c9"
+    ]
+  },
+  "ND-06": {
+    "A": [
+      "px1_wek_normal-82f064544468",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "taxi_role-f5753a8f9718",
+      "px1_wek_ticket-a47929243a82",
+      "px1_hyw_taxi_services-ba4f30ca5ab1"
+    ],
+    "B": [
+      "px1_wek_normal-82f064544468",
+      "px1_wek_booked-81dbbdd19e52",
+      "px1_wek_ticket-a47929243a82",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "px1_airport_pickup_modes-ad33d5335698"
+    ]
+  },
+  "ND-07": {
+    "A": [
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "px1_hyw_taxi_services-ba4f30ca5ab1"
+    ],
+    "B": [
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_wek_booked-81dbbdd19e52",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_fleet_stops_locations-ef12d4ebf1c9"
+    ]
+  },
+  "ND-08": {
+    "A": [
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "px1_wek_normal-82f064544468",
+      "px1_fleet_stops_purpose-a57e44fc72b9"
+    ],
+    "B": [
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "px1_wek_normal-82f064544468"
+    ]
+  },
+  "ND-09": {
+    "A": [
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "operating_areas-9c3f08071f9b"
+    ],
+    "B": [
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "px1_wek_normal-82f064544468"
+    ]
+  },
+  "ND-10": {
+    "A": [
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_disney_pickup-e4c54ec86f6d",
+      "px1_nt_operating_details-9030912fbfd8",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ],
+    "B": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_fleet_booking-1411470421aa",
+      "px1_disney_pickup-e4c54ec86f6d"
+    ]
+  },
+  "ND-11": {
+    "A": [
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e"
+    ],
+    "B": [
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_wek_normal-82f064544468"
+    ]
+  },
+  "ND-12": {
+    "A": [
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_fleet_booking-1411470421aa",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_disability_public_transport-445c2927bdfa"
+    ],
+    "B": [
+      "px1_fleet_booking-1411470421aa",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_wek_normal-82f064544468",
+      "px1_passenger_assistance-c1b78741c167"
+    ]
+  },
+  "ND-13": {
+    "A": [
+      "px1_guidedog_taxi_tips-277e9e92884c",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "px1_guidedog_accommodation-8d358da5f500",
+      "px1_disability_public_transport-445c2927bdfa",
+      "px1_guidedog_identity-7e5194762c15"
+    ],
+    "B": [
+      "px1_guidedog_taxi_tips-277e9e92884c",
+      "px1_guidedog_accommodation-8d358da5f500",
+      "px1_disability_public_transport-445c2927bdfa",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "meter_basis-3ba67572f68c"
+    ]
+  },
+  "ND-14": {
+    "A": [
+      "px1_guidedog_taxi_tips-277e9e92884c",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "px1_disability_public_transport-445c2927bdfa"
+    ],
+    "B": [
+      "px1_guidedog_taxi_tips-277e9e92884c",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "px1_disability_public_transport-445c2927bdfa",
+      "px1_passenger_assistance-c1b78741c167",
+      "passenger_conduct-5f41acf5fd46"
+    ]
+  },
+  "ND-15": {
+    "A": [
+      "px1_disability_public_transport-445c2927bdfa",
+      "px1_braille_location-716fdbdc86b3",
+      "px1_disability_certificate_apply-f10e17e9da81",
+      "px1_disability_certificate-66219470ae03",
+      "pay_report_missing-6ce8ae699511"
+    ],
+    "B": [
+      "px1_disability_public_transport-445c2927bdfa",
+      "px1_braille_location-716fdbdc86b3",
+      "px1_disability_certificate_apply-f10e17e9da81",
+      "px1_disability_certificate-66219470ae03",
+      "airport_record-cc5d29c5f8d9"
+    ]
+  },
+  "ND-16": {
+    "A": [
+      "px1_disability_certificate-66219470ae03",
+      "px1_disability_certificate_apply-f10e17e9da81",
+      "px1_passenger_assistance-c1b78741c167",
+      "passenger_conduct-5f41acf5fd46",
+      "px1_wek_booked-81dbbdd19e52"
+    ],
+    "B": [
+      "px1_disability_certificate-66219470ae03",
+      "px1_disability_certificate_apply-f10e17e9da81",
+      "passenger_conduct-5f41acf5fd46",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_refusal_out_of_service-2760b50b0236"
+    ]
+  },
+  "ND-17": {
+    "A": [
+      "px1_passenger_assistance-c1b78741c167",
+      "taxi_role-f5753a8f9718",
+      "px1_disability_certificate-66219470ae03",
+      "px1_capacity-c2dd2808f2a1",
+      "px1_fleet_stops_locations-ef12d4ebf1c9"
+    ],
+    "B": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_capacity-c2dd2808f2a1",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "airport_record-cc5d29c5f8d9"
+    ]
+  },
+  "ND-18": {
+    "A": [
+      "px1_refusal_out_of_service-2760b50b0236",
+      "pay_report_missing-6ce8ae699511",
+      "passenger_feedback_contacts-16584e159fe5",
+      "taxi_role-f5753a8f9718",
+      "airport_record-cc5d29c5f8d9"
+    ],
+    "B": [
+      "px1_refusal_out_of_service-2760b50b0236",
+      "passenger_feedback_contacts-16584e159fe5",
+      "pay_device_failure-3eaf9b55dc34",
+      "px1_capacity-c2dd2808f2a1",
+      "passenger_records-9f5f453afbc9"
+    ]
+  },
+  "ND-19": {
+    "A": [
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "pay_mismatch-37541c324763",
+      "meter_basis-3ba67572f68c",
+      "pay_device_failure-3eaf9b55dc34",
+      "change-d751c19583e6"
+    ],
+    "B": [
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "change-d751c19583e6",
+      "receipt-42d6ba929394",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_fleet_booking-1411470421aa"
+    ]
+  },
+  "ND-20": {
+    "A": [
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_nt-0d881f0fa13a",
+      "meter_basis-3ba67572f68c",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_urban-34049e5ab444"
+    ]
+  },
+  "ND-21": {
+    "A": [
+      "px1_lost_property-b9f2cd784172",
+      "passenger_records-9f5f453afbc9",
+      "receipt-42d6ba929394",
+      "px1_braille_location-716fdbdc86b3",
+      "px1_disability_public_transport-445c2927bdfa"
+    ],
+    "B": [
+      "px1_lost_property-b9f2cd784172",
+      "passenger_records-9f5f453afbc9",
+      "receipt-42d6ba929394",
+      "px1_wek_normal-82f064544468",
+      "pay_report_missing-6ce8ae699511"
+    ]
+  },
+  "ND-22": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "fare_urban-34049e5ab444",
+      "px1_wek_normal-82f064544468",
+      "px1_wek_ticket-a47929243a82"
+    ],
+    "B": [
+      "px1_wek_normal-82f064544468",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_2-6b7947aff09f"
+    ]
+  },
+  "ND-23": {
+    "A": [
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "hkzmb_guide_reference_zone_6-e34fb0652acd"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "fare_nt-0d881f0fa13a",
+      "airport_guide_reference_zone_6-4367c96ccdd4",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "hkzmb_guide_reference_zone_5-c56b8002271c"
+    ]
+  },
+  "ND-24": {
+    "A": [
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "px1_wek_ticket-a47929243a82",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "airport_estimate_scope-ea972af95836"
+    ],
+    "B": [
+      "meter_basis-3ba67572f68c",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd"
+    ]
+  },
+  "ND-25": {
+    "A": [
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_wek_booked-81dbbdd19e52",
+      "px1_wek_normal-82f064544468",
+      "px1_fleet_stops_purpose-a57e44fc72b9"
+    ],
+    "B": [
+      "px1_wek_booked-81dbbdd19e52",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "px1_wek_normal-82f064544468"
+    ]
+  },
+  "DEV-01": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "operating_areas-9c3f08071f9b",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "airport_guide_reference_zone_4-01f1d4781087"
+    ],
+    "B": [
+      "operating_areas-9c3f08071f9b",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "taxi_role-f5753a8f9718",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ]
+  },
+  "DEV-02": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "meter_basis-3ba67572f68c",
+      "px1_capacity-c2dd2808f2a1",
+      "airport_estimate_scope-ea972af95836"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "DEV-03": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "meter_basis-3ba67572f68c",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "fare_urban-34049e5ab444",
+      "px1_capacity-c2dd2808f2a1"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "meter_basis-3ba67572f68c",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "DEV-04": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "operating_areas-9c3f08071f9b",
+      "fare_lantau-f9fcd2cc5648",
+      "px1_nt_operating_details-9030912fbfd8",
+      "fare_nt-0d881f0fa13a"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "operating_areas-9c3f08071f9b",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "fare_nt-0d881f0fa13a",
+      "taxi_role-f5753a8f9718"
+    ]
+  },
+  "DEV-05": {
+    "A": [
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "luggage_conditions-107737d6d42e",
+      "fare_urban-34049e5ab444",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "fare_nt-0d881f0fa13a",
+      "luggage_conditions-107737d6d42e",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "DEV-06": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "fare_lantau-f9fcd2cc5648",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "DEV-07": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "px1_passenger_assistance-c1b78741c167",
+      "fare_nt-0d881f0fa13a",
+      "px1_disability_certificate_apply-f10e17e9da81",
+      "fare_lantau-f9fcd2cc5648"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "fare_lantau-f9fcd2cc5648",
+      "px1_passenger_assistance-c1b78741c167"
+    ]
+  },
+  "DEV-08": {
+    "A": [
+      "fare_nt-0d881f0fa13a",
+      "luggage_conditions-107737d6d42e",
+      "fare_urban-34049e5ab444",
+      "meter_basis-3ba67572f68c",
+      "fare_lantau-f9fcd2cc5648"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "fare_lantau-f9fcd2cc5648",
+      "px1_guidedog_accommodation-8d358da5f500"
+    ]
+  },
+  "DEV-09": {
+    "A": [
+      "fare_urban-34049e5ab444",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "hkzmb_estimate_scope-ea972af95836"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "fare_nt-0d881f0fa13a",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "DEV-10": {
+    "A": [
+      "fare_urban-34049e5ab444",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "px1_disability_public_transport-445c2927bdfa",
+      "fare_nt-0d881f0fa13a",
+      "px1_fleet_fare_modes-326ffe1560c6"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "fare_nt-0d881f0fa13a",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_4-7bea09a33440"
+    ]
+  },
+  "DEV-11": {
+    "A": [
+      "fare_urban-34049e5ab444",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "airport_estimate_scope-ea972af95836",
+      "airport_record-cc5d29c5f8d9",
+      "hkzmb_estimate_scope-ea972af95836"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "fare_nt-0d881f0fa13a",
+      "pay_mismatch-37541c324763",
+      "fare_lantau-f9fcd2cc5648",
+      "px1_fleet_fare_modes-326ffe1560c6"
+    ]
+  },
+  "DEV-12": {
+    "A": [
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_nt_operating_details-9030912fbfd8",
+      "passenger_conduct-5f41acf5fd46",
+      "taxi_role-f5753a8f9718",
+      "px1_refusal_out_of_service-2760b50b0236"
+    ],
+    "B": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "taxi_role-f5753a8f9718",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "operating_areas-9c3f08071f9b"
+    ]
+  },
+  "DEV-13": {
+    "A": [
+      "operating_areas-9c3f08071f9b",
+      "airport_guide_reference_zone_6-4367c96ccdd4",
+      "hkzmb_guide_reference_zone_6-e34fb0652acd",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "px1_hyw_taxi_services-ba4f30ca5ab1"
+    ],
+    "B": [
+      "operating_areas-9c3f08071f9b",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "px1_nt_operating_details-9030912fbfd8",
+      "taxi_role-f5753a8f9718"
+    ]
+  },
+  "DEV-14": {
+    "A": [
+      "operating_areas-9c3f08071f9b",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1"
+    ],
+    "B": [
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "operating_areas-9c3f08071f9b",
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "hkzmb_guide_reference_zone_5-c56b8002271c"
+    ]
+  },
+  "DEV-15": {
+    "A": [
+      "pay_check_methods-31f4a4f2e609",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_mismatch-37541c324763",
+      "payment_requirement-d1c58f61512f",
+      "pay_cash_required-ecc89ef6d693"
+    ],
+    "B": [
+      "payment_requirement-d1c58f61512f",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_mismatch-37541c324763"
+    ]
+  },
+  "DEV-16": {
+    "A": [
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "pay_mismatch-37541c324763",
+      "pay_cash_required-ecc89ef6d693",
+      "change-d751c19583e6"
+    ],
+    "B": [
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "pay_device_failure-3eaf9b55dc34",
+      "change-d751c19583e6",
+      "pay_card_not_accepted-f931cc765e0c"
+    ]
+  },
+  "DEV-17": {
+    "A": [
+      "change-d751c19583e6",
+      "receipt-42d6ba929394",
+      "pay_cash_required-ecc89ef6d693",
+      "passenger_records-9f5f453afbc9",
+      "px1_guidedog_taxi_tips-277e9e92884c"
+    ],
+    "B": [
+      "change-d751c19583e6",
+      "pay_cash_required-ecc89ef6d693",
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "pay_report_missing-6ce8ae699511"
+    ]
+  },
+  "DEV-18": {
+    "A": [
+      "passenger_feedback_contacts-16584e159fe5",
+      "passenger_records-9f5f453afbc9",
+      "px1_lost_property-b9f2cd784172",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "pay_report_missing-6ce8ae699511"
+    ],
+    "B": [
+      "passenger_records-9f5f453afbc9",
+      "passenger_feedback_contacts-16584e159fe5",
+      "px1_lost_property-b9f2cd784172",
+      "passenger_conduct-5f41acf5fd46",
+      "pay_report_missing-6ce8ae699511"
+    ]
+  },
+  "DEV-19": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "airport_record-cc5d29c5f8d9",
+      "fare_urban-34049e5ab444",
+      "fare_nt-0d881f0fa13a"
+    ],
+    "B": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "DEV-20": {
+    "A": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_qr_definition-9719a8e4884b",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_check_methods-31f4a4f2e609",
+      "payment_requirement-d1c58f61512f"
+    ],
+    "B": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "payment_requirement-d1c58f61512f",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_qr_definition-9719a8e4884b"
+    ]
+  },
+  "DEV-21": {
+    "A": [
+      "pay_qr_definition-9719a8e4884b",
+      "payment_requirement-d1c58f61512f",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_mismatch-37541c324763"
+    ],
+    "B": [
+      "pay_qr_definition-9719a8e4884b",
+      "payment_requirement-d1c58f61512f",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_device_failure-3eaf9b55dc34",
+      "px1_fleet_fare_modes-326ffe1560c6"
+    ]
+  },
+  "DEV-22": {
+    "A": [
+      "pay_check_methods-31f4a4f2e609",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_mismatch-37541c324763",
+      "pay_device_failure-3eaf9b55dc34"
+    ],
+    "B": [
+      "pay_check_methods-31f4a4f2e609",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_report_missing-6ce8ae699511",
+      "pay_mismatch-37541c324763"
+    ]
+  },
+  "DEV-23": {
+    "A": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_mismatch-37541c324763",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_check_methods-31f4a4f2e609"
+    ],
+    "B": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_mismatch-37541c324763",
+      "pay_device_failure-3eaf9b55dc34"
+    ]
+  },
+  "DEV-24": {
+    "A": [
+      "pay_cash_required-ecc89ef6d693",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_mismatch-37541c324763",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_device_failure-3eaf9b55dc34"
+    ],
+    "B": [
+      "pay_cash_required-ecc89ef6d693",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_report_missing-6ce8ae699511",
+      "pay_mismatch-37541c324763"
+    ]
+  },
+  "DEV-25": {
+    "A": [
+      "pay_mismatch-37541c324763",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_device_failure-3eaf9b55dc34"
+    ],
+    "B": [
+      "pay_mismatch-37541c324763",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_cash_required-ecc89ef6d693",
+      "payment_requirement-d1c58f61512f",
+      "pay_device_failure-3eaf9b55dc34"
+    ]
+  },
+  "DEV-26": {
+    "A": [
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_report_missing-6ce8ae699511",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_cash_required-ecc89ef6d693"
+    ],
+    "B": [
+      "pay_report_missing-6ce8ae699511",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_mismatch-37541c324763"
+    ]
+  },
+  "DEV-27": {
+    "A": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_mismatch-37541c324763",
+      "pay_check_methods-31f4a4f2e609"
+    ],
+    "B": [
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_mismatch-37541c324763",
+      "pay_report_missing-6ce8ae699511"
+    ]
+  },
+  "DEV-28": {
+    "A": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_disability_certificate-66219470ae03",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "px1_refusal_out_of_service-2760b50b0236"
+    ],
+    "B": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_disability_certificate-66219470ae03",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "px1_refusal_out_of_service-2760b50b0236"
+    ]
+  },
+  "DEV-29": {
+    "A": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "taxi_role-f5753a8f9718",
+      "px1_braille_location-716fdbdc86b3",
+      "px1_capacity-c2dd2808f2a1"
+    ],
+    "B": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "taxi_role-f5753a8f9718",
+      "px1_guidedog_taxi_tips-277e9e92884c",
+      "px1_hyw_taxi_services-ba4f30ca5ab1"
+    ]
+  },
+  "DEV-30": {
+    "A": [
+      "passenger_feedback_contacts-16584e159fe5",
+      "passenger_records-9f5f453afbc9",
+      "pay_report_missing-6ce8ae699511",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_check_methods-31f4a4f2e609"
+    ],
+    "B": [
+      "passenger_feedback_contacts-16584e159fe5",
+      "passenger_records-9f5f453afbc9",
+      "px1_braille_location-716fdbdc86b3",
+      "pay_report_missing-6ce8ae699511",
+      "px1_refusal_out_of_service-2760b50b0236"
+    ]
+  },
+  "DEV-31": {
+    "A": [
+      "airport_record-cc5d29c5f8d9",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "passenger_records-9f5f453afbc9",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "pay_cash_required-ecc89ef6d693"
+    ],
+    "B": [
+      "airport_record-cc5d29c5f8d9",
+      "pay_cash_required-ecc89ef6d693",
+      "passenger_records-9f5f453afbc9",
+      "passenger_conduct-5f41acf5fd46",
+      "px1_airport_pickup_modes-ad33d5335698"
+    ]
+  },
+  "DEV-32": {
+    "A": [
+      "airport_estimate_scope-ea972af95836",
+      "fare_urban-34049e5ab444",
+      "hkzmb_estimate_scope-ea972af95836",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "luggage_conditions-107737d6d42e"
+    ],
+    "B": [
+      "airport_estimate_scope-ea972af95836",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "hkzmb_estimate_scope-ea972af95836",
+      "fare_urban-34049e5ab444",
+      "fare_nt-0d881f0fa13a"
+    ]
+  },
+  "DEV-33": {
+    "A": [
+      "hkzmb_estimate_scope-ea972af95836",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc"
+    ],
+    "B": [
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "hkzmb_guide_reference_zone_4-7bea09a33440"
+    ]
+  },
+  "GEN-01": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "px1_disability_public_transport-445c2927bdfa"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "meter_basis-3ba67572f68c"
+    ]
+  },
+  "GEN-02": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "px1_disability_public_transport-445c2927bdfa"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "meter_basis-3ba67572f68c"
+    ]
+  },
+  "GEN-03": {
+    "A": [
+      "airport_guide_reference_zone_6-4367c96ccdd4",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "hkzmb_guide_reference_zone_6-e34fb0652acd",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "fare_lantau-f9fcd2cc5648"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_urban-34049e5ab444",
+      "meter_basis-3ba67572f68c",
+      "fare_nt-0d881f0fa13a"
+    ]
+  },
+  "GEN-04": {
+    "A": [
+      "airport_guide_reference_zone_6-4367c96ccdd4",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "hkzmb_guide_reference_zone_6-e34fb0652acd",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "fare_lantau-f9fcd2cc5648"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_urban-34049e5ab444",
+      "meter_basis-3ba67572f68c",
+      "fare_nt-0d881f0fa13a"
+    ]
+  },
+  "GEN-05": {
+    "A": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_mismatch-37541c324763",
+      "pay_qr_definition-9719a8e4884b",
+      "pay_check_methods-31f4a4f2e609",
+      "receipt-42d6ba929394"
+    ],
+    "B": [
+      "payment_requirement-d1c58f61512f",
+      "pay_mismatch-37541c324763",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_cash_required-ecc89ef6d693"
+    ]
+  },
+  "GEN-06": {
+    "A": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_mismatch-37541c324763",
+      "pay_qr_definition-9719a8e4884b",
+      "pay_check_methods-31f4a4f2e609",
+      "receipt-42d6ba929394"
+    ],
+    "B": [
+      "payment_requirement-d1c58f61512f",
+      "pay_mismatch-37541c324763",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_cash_required-ecc89ef6d693"
+    ]
+  },
+  "GEN-07": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "meter_basis-3ba67572f68c"
+    ],
+    "B": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "fare_urban-34049e5ab444",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ]
+  },
+  "GEN-08": {
+    "A": [
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "meter_basis-3ba67572f68c"
+    ],
+    "B": [
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "fare_urban-34049e5ab444",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ]
+  },
+  "GEN-09": {
+    "A": [
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "airport_guide_reference_zone_3-461aebb47e73"
+    ],
+    "B": [
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ]
+  },
+  "GEN-10": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "airport_guide_reference_zone_6-4367c96ccdd4"
+    ],
+    "B": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "airport_guide_reference_zone_4-01f1d4781087"
+    ]
+  },
+  "GEN-11": {
+    "A": [
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "px1_fleet_stops_purpose-a57e44fc72b9",
+      "hkzmb_guide_reference_zone_1-178950626004"
+    ],
+    "B": [
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e"
+    ]
+  },
+  "GEN-12": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_estimate_scope-ea972af95836",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_6-4367c96ccdd4",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ],
+    "B": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ]
+  },
+  "GEN-13": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "airport_guide_reference_zone_4-01f1d4781087"
+    ],
+    "B": [
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_2-6b7947aff09f"
+    ]
+  },
+  "GEN-14": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "fare_urban-34049e5ab444",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_3-461aebb47e73"
+    ],
+    "B": [
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "fare_urban-34049e5ab444",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_4-01f1d4781087"
+    ]
+  },
+  "GEN-15": {
+    "A": [
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "airport_record-cc5d29c5f8d9",
+      "airport_guide_reference_zone_6-4367c96ccdd4"
+    ],
+    "B": [
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "receipt-42d6ba929394",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "airport_guide_reference_zone_4-01f1d4781087"
+    ]
+  },
+  "GEN-16": {
+    "A": [
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "pay_card_not_accepted-f931cc765e0c",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "hkzmb_guide_reference_zone_5-c56b8002271c"
+    ],
+    "B": [
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "pay_card_not_accepted-f931cc765e0c",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "hkzmb_guide_reference_zone_4-7bea09a33440"
+    ]
+  },
+  "GEN-17": {
+    "A": [
+      "operating_areas-9c3f08071f9b",
+      "fare_nt-0d881f0fa13a",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "airport_guide_reference_zone_4-01f1d4781087",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ],
+    "B": [
+      "operating_areas-9c3f08071f9b",
+      "fare_nt-0d881f0fa13a",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_airport_queues-a9d6e1fe3bc0"
+    ]
+  },
+  "GEN-18": {
+    "A": [
+      "fare_lantau-f9fcd2cc5648",
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "airport_guide_reference_zone_6-4367c96ccdd4",
+      "hkzmb_guide_reference_zone_6-e34fb0652acd"
+    ],
+    "B": [
+      "fare_lantau-f9fcd2cc5648",
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "fare_urban-34049e5ab444"
+    ]
+  },
+  "GEN-19": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_6-4367c96ccdd4",
+      "hkzmb_guide_reference_zone_6-e34fb0652acd"
+    ],
+    "B": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "fare_urban-34049e5ab444"
+    ]
+  },
+  "GEN-20": {
+    "A": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "px1_fleet_stops_locations-ef12d4ebf1c9"
+    ],
+    "B": [
+      "px1_nt_operating_details-9030912fbfd8",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "operating_areas-9c3f08071f9b",
+      "px1_airport_pickup_modes-ad33d5335698"
+    ]
+  },
+  "GEN-21": {
+    "A": [
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "px1_nt_operating_details-9030912fbfd8"
+    ],
+    "B": [
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "hkzmb_guide_reference_zone_1-178950626004"
+    ]
+  },
+  "GEN-22": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "taxi_role-f5753a8f9718",
+      "passenger_conduct-5f41acf5fd46",
+      "px1_airport_queues-a9d6e1fe3bc0"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "taxi_role-f5753a8f9718",
+      "px1_fleet_identify-b9637b647f80",
+      "west_kowloon_estimate_conditions-149219165e75"
+    ]
+  },
+  "GEN-23": {
+    "A": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_6-4367c96ccdd4",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "airport_record-cc5d29c5f8d9"
+    ],
+    "B": [
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "airport_guide_reference_zone_1-278ac35930fd",
+      "airport_guide_reference_zone_3-461aebb47e73",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_4-01f1d4781087"
+    ]
+  },
+  "GEN-24": {
+    "A": [
+      "px1_airport_pickup_modes-ad33d5335698",
+      "airport_guide_reference_zone_2-6b7947aff09f",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "px1_wek_ticket-a47929243a82",
+      "px1_capacity-c2dd2808f2a1"
+    ],
+    "B": [
+      "px1_airport_pickup_modes-ad33d5335698",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "px1_airport_queues-a9d6e1fe3bc0",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444"
+    ]
+  },
+  "RR-01-1": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "fare_lantau-f9fcd2cc5648",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "passenger_conduct-5f41acf5fd46"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "fare_nt-0d881f0fa13a",
+      "px1_capacity-c2dd2808f2a1"
+    ]
+  },
+  "RR-01-2": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "px1_capacity-c2dd2808f2a1",
+      "px1_wek_ticket-a47929243a82",
+      "change-d751c19583e6"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "px1_capacity-c2dd2808f2a1",
+      "px1_wek_ticket-a47929243a82"
+    ]
+  },
+  "RR-02-1": {
+    "A": [
+      "pay_cash_required-ecc89ef6d693",
+      "change-d751c19583e6",
+      "pay_mismatch-37541c324763",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_card_not_accepted-f931cc765e0c"
+    ],
+    "B": [
+      "pay_cash_required-ecc89ef6d693",
+      "change-d751c19583e6",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_check_methods-31f4a4f2e609"
+    ]
+  },
+  "RR-02-2": {
+    "A": [
+      "pay_cash_required-ecc89ef6d693",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "pay_card_not_accepted-f931cc765e0c",
+      "px1_wek_ticket-a47929243a82",
+      "pay_mismatch-37541c324763"
+    ],
+    "B": [
+      "pay_cash_required-ecc89ef6d693",
+      "pay_device_failure-3eaf9b55dc34",
+      "change-d751c19583e6",
+      "payment_requirement-d1c58f61512f",
+      "pay_card_not_accepted-f931cc765e0c"
+    ]
+  },
+  "RR-03-1": {
+    "A": [
+      "pay_check_methods-31f4a4f2e609",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_mismatch-37541c324763"
+    ],
+    "B": [
+      "pay_check_methods-31f4a4f2e609",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_device_failure-3eaf9b55dc34",
+      "payment_requirement-d1c58f61512f"
+    ]
+  },
+  "RR-03-2": {
+    "A": [
+      "px1_kaitak_pickup-264c060ce1c3",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_card_not_accepted-f931cc765e0c",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "pay_mismatch-37541c324763"
+    ],
+    "B": [
+      "pay_check_methods-31f4a4f2e609",
+      "pay_cash_required-ecc89ef6d693",
+      "payment_requirement-d1c58f61512f",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_card_not_accepted-f931cc765e0c"
+    ]
+  },
+  "RR-04-1": {
+    "A": [
+      "pay_qr_definition-9719a8e4884b",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_check_methods-31f4a4f2e609",
+      "payment_requirement-d1c58f61512f"
+    ],
+    "B": [
+      "pay_qr_definition-9719a8e4884b",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_mismatch-37541c324763",
+      "pay_device_failure-3eaf9b55dc34",
+      "payment_requirement-d1c58f61512f"
+    ]
+  },
+  "RR-04-2": {
+    "A": [
+      "pay_qr_definition-9719a8e4884b",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "pay_card_not_accepted-f931cc765e0c",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "pay_check_methods-31f4a4f2e609"
+    ],
+    "B": [
+      "pay_qr_definition-9719a8e4884b",
+      "pay_mismatch-37541c324763",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_device_failure-3eaf9b55dc34"
+    ]
+  },
+  "RR-05-1": {
+    "A": [
+      "pay_report_missing-6ce8ae699511",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_mismatch-37541c324763",
+      "payment_requirement-d1c58f61512f"
+    ],
+    "B": [
+      "pay_report_missing-6ce8ae699511",
+      "passenger_feedback_contacts-16584e159fe5",
+      "passenger_records-9f5f453afbc9",
+      "px1_lost_property-b9f2cd784172",
+      "pay_check_methods-31f4a4f2e609"
+    ]
+  },
+  "RR-05-2": {
+    "A": [
+      "pay_report_missing-6ce8ae699511",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "pay_card_not_accepted-f931cc765e0c",
+      "px1_fleet_stops_locations-ef12d4ebf1c9",
+      "pay_check_methods-31f4a4f2e609"
+    ],
+    "B": [
+      "pay_report_missing-6ce8ae699511",
+      "payment_requirement-d1c58f61512f",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_device_failure-3eaf9b55dc34",
+      "passenger_records-9f5f453afbc9"
+    ]
+  },
+  "RR-06-1": {
+    "A": [
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_mismatch-37541c324763",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_card_not_accepted-f931cc765e0c"
+    ],
+    "B": [
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_cash_required-ecc89ef6d693",
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "pay_mismatch-37541c324763"
+    ]
+  },
+  "RR-06-2": {
+    "A": [
+      "px1_kaitak_pickup-264c060ce1c3",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_mismatch-37541c324763",
+      "px1_wek_ticket-a47929243a82",
+      "pay_cash_required-ecc89ef6d693"
+    ],
+    "B": [
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_report_missing-6ce8ae699511",
+      "pay_mismatch-37541c324763",
+      "payment_requirement-d1c58f61512f"
+    ]
+  },
+  "RR-07-1": {
+    "A": [
+      "airport_record-cc5d29c5f8d9",
+      "px1_lost_property-b9f2cd784172",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "passenger_records-9f5f453afbc9",
+      "px1_disability_certificate_apply-f10e17e9da81"
+    ],
+    "B": [
+      "airport_record-cc5d29c5f8d9",
+      "passenger_records-9f5f453afbc9",
+      "passenger_conduct-5f41acf5fd46",
+      "pay_cash_required-ecc89ef6d693",
+      "px1_airport_pickup_modes-ad33d5335698"
+    ]
+  },
+  "RR-07-2": {
+    "A": [
+      "airport_record-cc5d29c5f8d9",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "px1_lost_property-b9f2cd784172",
+      "px1_airport_pickup_modes-ad33d5335698",
+      "passenger_records-9f5f453afbc9"
+    ],
+    "B": [
+      "airport_record-cc5d29c5f8d9",
+      "pay_mismatch-37541c324763",
+      "passenger_records-9f5f453afbc9",
+      "px1_disability_certificate-66219470ae03",
+      "passenger_conduct-5f41acf5fd46"
+    ]
+  },
+  "RR-08-1": {
+    "A": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "px1_capacity-c2dd2808f2a1"
+    ],
+    "B": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "meter_basis-3ba67572f68c"
+    ]
+  },
+  "RR-08-2": {
+    "A": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "px1_capacity-c2dd2808f2a1"
+    ],
+    "B": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "px1_guidedog_user_tips-dd51841d4403",
+      "passenger_records-9f5f453afbc9"
+    ]
+  },
+  "RR-09-1": {
+    "A": [
+      "taxi_role-f5753a8f9718",
+      "meter_basis-3ba67572f68c",
+      "operating_areas-9c3f08071f9b",
+      "px1_wek_normal-82f064544468",
+      "px1_airport_pickup_modes-ad33d5335698"
+    ],
+    "B": [
+      "taxi_role-f5753a8f9718",
+      "px1_wek_normal-82f064544468",
+      "passenger_conduct-5f41acf5fd46",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "operating_areas-9c3f08071f9b"
+    ]
+  },
+  "RR-09-2": {
+    "A": [
+      "taxi_role-f5753a8f9718",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_capacity-c2dd2808f2a1",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ],
+    "B": [
+      "taxi_role-f5753a8f9718",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "px1_passenger_assistance-c1b78741c167",
+      "passenger_conduct-5f41acf5fd46",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ]
+  },
+  "RR-10-1": {
+    "A": [
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e"
+    ],
+    "B": [
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ]
+  },
+  "RR-10-2": {
+    "A": [
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "hkzmb_guide_reference_zone_6-e34fb0652acd",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "hkzmb_guide_reference_zone_1-178950626004"
+    ],
+    "B": [
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "hkzmb_guide_reference_zone_4-7bea09a33440",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc"
+    ]
+  },
+  "RR-11-1": {
+    "A": [
+      "pay_cash_required-ecc89ef6d693",
+      "receipt-42d6ba929394",
+      "change-d751c19583e6",
+      "pay_mismatch-37541c324763",
+      "meter_basis-3ba67572f68c"
+    ],
+    "B": [
+      "pay_cash_required-ecc89ef6d693",
+      "receipt-42d6ba929394",
+      "change-d751c19583e6",
+      "passenger_records-9f5f453afbc9",
+      "pay_mismatch-37541c324763"
+    ]
+  },
+  "RR-11-2": {
+    "A": [
+      "receipt-42d6ba929394",
+      "pay_cash_required-ecc89ef6d693",
+      "passenger_records-9f5f453afbc9",
+      "pay_mismatch-37541c324763",
+      "change-d751c19583e6"
+    ],
+    "B": [
+      "receipt-42d6ba929394",
+      "pay_cash_required-ecc89ef6d693",
+      "passenger_records-9f5f453afbc9",
+      "change-d751c19583e6",
+      "pay_card_not_accepted-f931cc765e0c"
+    ]
+  },
+  "RR-12-1": {
+    "A": [
+      "pay_check_methods-31f4a4f2e609",
+      "luggage_conditions-107737d6d42e",
+      "px1_capacity-c2dd2808f2a1",
+      "fare_urban-34049e5ab444",
+      "pay_device_failure-3eaf9b55dc34"
+    ],
+    "B": [
+      "pay_check_methods-31f4a4f2e609",
+      "luggage_conditions-107737d6d42e",
+      "pay_cash_required-ecc89ef6d693",
+      "payment_requirement-d1c58f61512f",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ]
+  },
+  "RR-12-2": {
+    "A": [
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_mismatch-37541c324763",
+      "payment_requirement-d1c58f61512f",
+      "pay_cash_required-ecc89ef6d693"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "pay_check_methods-31f4a4f2e609",
+      "payment_requirement-d1c58f61512f",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_device_failure-3eaf9b55dc34"
+    ]
+  },
+  "RR-13-1": {
+    "A": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "luggage_conditions-107737d6d42e",
+      "pay_mismatch-37541c324763",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_device_failure-3eaf9b55dc34"
+    ],
+    "B": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_cash_required-ecc89ef6d693",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "pay_mismatch-37541c324763",
+      "fare_nt-0d881f0fa13a"
+    ]
+  },
+  "RR-13-2": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "pay_cash_required-ecc89ef6d693",
+      "fare_urban-34049e5ab444",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_nt-0d881f0fa13a"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "pay_cash_required-ecc89ef6d693"
+    ]
+  },
+  "RR-14-1": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "fare_lantau-f9fcd2cc5648",
+      "airport_record-cc5d29c5f8d9",
+      "px1_passenger_assistance-c1b78741c167",
+      "fare_nt-0d881f0fa13a"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "fare_urban-34049e5ab444",
+      "airport_record-cc5d29c5f8d9",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "RR-14-2": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "airport_record-cc5d29c5f8d9",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "px1_passenger_assistance-c1b78741c167"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "airport_record-cc5d29c5f8d9",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "RR-15-1": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "fare_lantau-f9fcd2cc5648"
+    ]
+  },
+  "RR-15-2": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "luggage_conditions-107737d6d42e"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "fare_lantau-f9fcd2cc5648",
+      "luggage_conditions-107737d6d42e"
+    ]
+  },
+  "RR-16-1": {
+    "A": [
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "change-d751c19583e6",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_mismatch-37541c324763"
+    ],
+    "B": [
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "change-d751c19583e6",
+      "pay_cash_required-ecc89ef6d693",
+      "pay_device_failure-3eaf9b55dc34"
+    ]
+  },
+  "RR-16-2": {
+    "A": [
+      "change-d751c19583e6",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "passenger_feedback_contacts-16584e159fe5",
+      "receipt-42d6ba929394",
+      "pay_device_failure-3eaf9b55dc34"
+    ],
+    "B": [
+      "passenger_records-9f5f453afbc9",
+      "receipt-42d6ba929394",
+      "change-d751c19583e6",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_cash_required-ecc89ef6d693"
+    ]
+  },
+  "RR-17-1": {
+    "A": [
+      "operating_areas-9c3f08071f9b",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_mismatch-37541c324763",
+      "payment_requirement-d1c58f61512f",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ],
+    "B": [
+      "operating_areas-9c3f08071f9b",
+      "px1_hyw_taxi_services-ba4f30ca5ab1",
+      "px1_nt_operating_details-9030912fbfd8",
+      "payment_requirement-d1c58f61512f",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ]
+  },
+  "RR-17-2": {
+    "A": [
+      "operating_areas-9c3f08071f9b",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "payment_requirement-d1c58f61512f",
+      "px1_wek_ticket-a47929243a82",
+      "pay_mismatch-37541c324763"
+    ],
+    "B": [
+      "payment_requirement-d1c58f61512f",
+      "operating_areas-9c3f08071f9b",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_check_methods-31f4a4f2e609",
+      "pay_card_not_accepted-f931cc765e0c"
+    ]
+  },
+  "RR-18-1": {
+    "A": [
+      "receipt-42d6ba929394",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "passenger_records-9f5f453afbc9",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "west_kowloon_estimate_conditions-149219165e75"
+    ],
+    "B": [
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "meter_basis-3ba67572f68c"
+    ]
+  },
+  "RR-18-2": {
+    "A": [
+      "fare_urban-34049e5ab444",
+      "receipt-42d6ba929394",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "passenger_records-9f5f453afbc9",
+      "fare_lantau-f9fcd2cc5648"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "receipt-42d6ba929394",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ]
+  },
+  "RR-19-1": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_nt-0d881f0fa13a",
+      "meter_basis-3ba67572f68c",
+      "fare_urban-34049e5ab444"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "fare_lantau-f9fcd2cc5648",
+      "meter_basis-3ba67572f68c"
+    ]
+  },
+  "RR-19-2": {
+    "A": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "airport_guide_reference_zone_5-bdd1174477cc",
+      "fare_lantau-f9fcd2cc5648",
+      "hkzmb_guide_reference_zone_6-e34fb0652acd"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ]
+  },
+  "RR-20-1": {
+    "A": [
+      "fare_lantau-f9fcd2cc5648",
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "fare_urban-34049e5ab444",
+      "west_kowloon_estimate_conditions-149219165e75"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "luggage_conditions-107737d6d42e",
+      "fare_nt-0d881f0fa13a",
+      "fare_lantau-f9fcd2cc5648",
+      "fare_urban-34049e5ab444"
+    ]
+  },
+  "RR-20-2": {
+    "A": [
+      "luggage_conditions-107737d6d42e",
+      "px1_disability_certificate-66219470ae03",
+      "meter_basis-3ba67572f68c",
+      "px1_capacity-c2dd2808f2a1",
+      "airport_guide_reference_zone_5-bdd1174477cc"
+    ],
+    "B": [
+      "luggage_conditions-107737d6d42e",
+      "px1_capacity-c2dd2808f2a1",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "hkzmb_guide_reference_zone_5-c56b8002271c"
+    ]
+  },
+  "RR-21-1": {
+    "A": [
+      "receipt-42d6ba929394",
+      "pay_card_not_accepted-f931cc765e0c",
+      "passenger_records-9f5f453afbc9",
+      "luggage_conditions-107737d6d42e",
+      "official_three_category_fares-b9b2ed02cf7f"
+    ],
+    "B": [
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "pay_card_not_accepted-f931cc765e0c",
+      "luggage_conditions-107737d6d42e",
+      "pay_device_failure-3eaf9b55dc34"
+    ]
+  },
+  "RR-21-2": {
+    "A": [
+      "pay_card_not_accepted-f931cc765e0c",
+      "px1_kaitak_pickup-264c060ce1c3",
+      "px1_wek_ticket-a47929243a82",
+      "receipt-42d6ba929394",
+      "pay_cash_required-ecc89ef6d693"
+    ],
+    "B": [
+      "passenger_records-9f5f453afbc9",
+      "receipt-42d6ba929394",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_card_not_accepted-f931cc765e0c",
+      "pay_cash_required-ecc89ef6d693"
+    ]
+  },
+  "RR-22-1": {
+    "A": [
+      "fare_urban-34049e5ab444",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "west_kowloon_estimate_conditions-149219165e75",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "hkzmb_estimate_scope-ea972af95836"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "hkzmb_estimate_scope-ea972af95836",
+      "px1_fleet_fare_modes-326ffe1560c6",
+      "west_kowloon_estimate_conditions-149219165e75"
+    ]
+  },
+  "RR-22-2": {
+    "A": [
+      "px1_kaitak_pickup-264c060ce1c3",
+      "fare_urban-34049e5ab444",
+      "hkzmb_guide_reference_zone_1-178950626004",
+      "px1_wek_ticket-a47929243a82",
+      "hkzmb_guide_reference_zone_2-a31027c8eddc"
+    ],
+    "B": [
+      "fare_urban-34049e5ab444",
+      "fare_nt-0d881f0fa13a",
+      "hkzmb_guide_reference_zone_4-7bea09a33440",
+      "hkzmb_guide_reference_zone_5-c56b8002271c",
+      "hkzmb_guide_reference_zone_3-f8a6c9c2ba8e"
+    ]
+  },
+  "RR-23-1": {
+    "A": [
+      "payment_requirement-d1c58f61512f",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "pay_qr_definition-9719a8e4884b",
+      "pay_mismatch-37541c324763",
+      "pay_card_not_accepted-f931cc765e0c"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "payment_requirement-d1c58f61512f",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "pay_qr_definition-9719a8e4884b"
+    ]
+  },
+  "RR-23-2": {
+    "A": [
+      "pay_qr_definition-9719a8e4884b",
+      "official_three_category_fares-b9b2ed02cf7f",
+      "payment_requirement-d1c58f61512f",
+      "pay_device_failure-3eaf9b55dc34",
+      "fare_urban-34049e5ab444"
+    ],
+    "B": [
+      "official_three_category_fares-b9b2ed02cf7f",
+      "payment_requirement-d1c58f61512f",
+      "fare_nt-0d881f0fa13a",
+      "fare_urban-34049e5ab444",
+      "px1_hyw_taxi_services-ba4f30ca5ab1"
+    ]
+  },
+  "RR-24-1": {
+    "A": [
+      "pay_check_methods-31f4a4f2e609",
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_report_missing-6ce8ae699511"
+    ],
+    "B": [
+      "pay_check_methods-31f4a4f2e609",
+      "passenger_records-9f5f453afbc9",
+      "receipt-42d6ba929394",
+      "pay_report_missing-6ce8ae699511",
+      "pay_device_failure-3eaf9b55dc34"
+    ]
+  },
+  "RR-24-2": {
+    "A": [
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "pay_report_missing-6ce8ae699511",
+      "pay_device_failure-3eaf9b55dc34",
+      "passenger_feedback_contacts-16584e159fe5"
+    ],
+    "B": [
+      "receipt-42d6ba929394",
+      "passenger_records-9f5f453afbc9",
+      "pay_device_failure-3eaf9b55dc34",
+      "pay_report_missing-6ce8ae699511",
+      "pay_check_methods-31f4a4f2e609"
+    ]
+  },
+  "RR-25-1": {
+    "A": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_disability_certificate-66219470ae03",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "px1_passenger_assistance-c1b78741c167",
+      "passenger_records-9f5f453afbc9"
+    ],
+    "B": [
+      "passenger_conduct-5f41acf5fd46",
+      "passenger_records-9f5f453afbc9",
+      "px1_passenger_assistance-c1b78741c167",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "receipt-42d6ba929394"
+    ]
+  },
+  "RR-25-2": {
+    "A": [
+      "passenger_conduct-5f41acf5fd46",
+      "passenger_records-9f5f453afbc9",
+      "px1_capacity-c2dd2808f2a1",
+      "px1_disability_certificate-66219470ae03",
+      "pay_device_failure-3eaf9b55dc34"
+    ],
+    "B": [
+      "passenger_conduct-5f41acf5fd46",
+      "px1_passenger_assistance-c1b78741c167",
+      "passenger_records-9f5f453afbc9",
+      "px1_refusal_out_of_service-2760b50b0236",
+      "pay_device_failure-3eaf9b55dc34"
+    ]
+  }
+}

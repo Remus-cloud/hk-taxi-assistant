@@ -1,0 +1,475 @@
+[
+  {
+    "facility_id": "fleet:1",
+    "name": "香園圍管制站公共運輸交匯處內的路段",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "香園圍管制站公共運輸交匯處內的路段",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "香園圍",
+      "Heung Yuen Wai"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:2",
+    "name": "啟德郵輪碼頭1樓停車場部份範圍",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "啟德郵輪碼頭1樓停車場部份範圍",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "啟德郵輪碼頭",
+      "Kai Tak Cruise Terminal"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:3",
+    "name": "香港國際機場1號停車場旁的部份範圍",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "香港國際機場1號停車場旁的部份範圍",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "香港國際機場",
+      "機場",
+      "airport"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:4a",
+    "name": "香港西九龍站對出的一段匯民道",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "香港西九龍站對出的一段匯民道",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "香港西九龍站",
+      "西九龍",
+      "West Kowloon"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:4b",
+    "name": "香港西九龍站B2層停車場部份範圍",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "香港西九龍站B2層停車場部份範圍",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "香港西九龍站",
+      "西九龍",
+      "West Kowloon"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:5",
+    "name": "機鐵香港站L2樓的路段",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "機鐵香港站L2樓的路段",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "機鐵香港站",
+      "香港站",
+      "Hong Kong Station"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:6",
+    "name": "機鐵九龍站L2樓的路段",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "機鐵九龍站L2樓的路段",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "機鐵九龍站",
+      "九龍站",
+      "Kowloon Station"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:7",
+    "name": "機鐵青衣站U2層的路段",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "機鐵青衣站U2層的路段",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "機鐵青衣站",
+      "青衣站",
+      "Tsing Yi Station"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:8",
+    "name": "中港城公共運輸交匯處內的路段",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "中港城公共運輸交匯處內的路段",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "中港城",
+      "China Hong Kong City"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:9",
+    "name": "幻想道公共運輸交匯處內的路段",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "幻想道公共運輸交匯處內的路段",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "幻想道",
+      "迪士尼",
+      "Disneyland"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:10",
+    "name": "海洋公園對出的一段海洋公園道",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "海洋公園對出的一段海洋公園道",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "海洋公園",
+      "Ocean Park"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:11",
+    "name": "深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "深圳灣口岸",
+      "Shenzhen Bay"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:12",
+    "name": "港珠澳大橋香港口岸內一段順捷路",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "港珠澳大橋香港口岸內一段順捷路",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "港珠澳大橋香港口岸",
+      "HKZMB"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:13",
+    "name": "啟德體育園啟德主場館的士上落客區部分範圍",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "啟德體育園啟德主場館的士上落客區部分範圍",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "啟德體育園",
+      "Kai Tak Sports Park"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:14",
+    "name": "香港會議展覽中心對出的一段博覽道東行",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "香港會議展覽中心對出的一段博覽道東行",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "香港會議展覽中心",
+      "會展中心",
+      "HKCEC"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:15",
+    "name": "會展站公共運輸交匯處內的路段",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "會展站公共運輸交匯處內的路段",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "會展站",
+      "Exhibition Centre Station"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:16",
+    "name": "M+博物館外的一段文化道",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "M+博物館外的一段文化道",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "M+博物館",
+      "M+ Museum"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "fleet:17",
+    "name": "皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "kind": "fleet_prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked"
+    ],
+    "taxi_type_scope": [],
+    "area": "皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.td.gov.hk/filemanager/tc/content_5241/List_of_Fleet_Taxi_Stopping_Places_TC.pdf",
+    "evidence_id": "PXE-017",
+    "place_keys": [
+      "皇崗口岸",
+      "Huanggang"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/fleet_stops_tc.pdf",
+    "source_raw_sha256": "da7d16719a0b4ea7e92cca5da230409f148b82e117d3a7a339a60ec55e7afe9e",
+    "source_normalized_fragment": "車隊的士停車處列表\n地點\n1. 香園圍管制站公共運輸交匯處內的路段\n2. 啟德郵輪碼頭1樓停車場部份範圍\n3. 香港國際機場1號停車場旁的部份範圍\n4a. 香港西九龍站對出的一段匯民道\n4b. 香港西九龍站B2層停車場部份範圍\n5. 機鐵香港站L2樓的路段\n6. 機鐵九龍站L2樓的路段\n7. 機鐵青衣站U2層的路段\n8. 中港城公共運輸交匯處內的路段\n9. 幻想道公共運輸交匯處內的路段\n10. 海洋公園對出的一段海洋公園道\n11. 深圳灣口岸（港方口岸區）旅遊巴士上客區部分範圍\n12. 港珠澳大橋香港口岸內一段順捷路\n13. 啟德體育園啟德主場館的士上落客區部分範圍\n14. 香港會議展覽中心對出的一段博覽道東行\n15. 會展站公共運輸交匯處內的路段\n16. M+博物館外的一段文化道\n17. 皇崗口岸（港方口岸區）公共運輸交匯處的士上客區部分範圍",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "wk:ordinary",
+    "name": "香港西九龍站B2層的士站",
+    "kind": "ordinary_stand",
+    "service_modes": [
+      "street_or_stand",
+      "ordinary_phone_booking"
+    ],
+    "taxi_type_scope": [],
+    "area": "B2",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.highspeed.mtr.com.hk/tc/guide/wek.html",
+    "evidence_id": "PXE-007",
+    "place_keys": [
+      "香港西九龍站",
+      "西九龍",
+      "West Kowloon"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/wek_tc.html",
+    "source_raw_sha256": "b985e227101e18f22bb369d0171c5812b31126e8375783da8d266faa2c05dfa0",
+    "source_normalized_fragment": "利用的士前往香港西九龍站乘客可直達車站B1層下車，而打算乘搭的士離開車站的旅客可到B2層的士站候車。",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  },
+  {
+    "facility_id": "wk:prebooked",
+    "name": "香港西九龍站地面層B出口匯民道上落客區",
+    "kind": "prebooked_pickup",
+    "service_modes": [
+      "fleet_prebooked",
+      "ordinary_phone_booking",
+      "unknown"
+    ],
+    "taxi_type_scope": [],
+    "area": "地面層B出口",
+    "longitude": null,
+    "latitude": null,
+    "source_url": "https://www.highspeed.mtr.com.hk/tc/guide/wek.html",
+    "evidence_id": "PXE-008",
+    "place_keys": [
+      "香港西九龍站",
+      "西九龍",
+      "West Kowloon"
+    ],
+    "taxi_type_qualification": "facility listing does not independently establish a permitted route for each taxi type",
+    "source_raw_path": "data/raw/passenger_expansion_v1/wek_tc.html",
+    "source_raw_sha256": "b985e227101e18f22bb369d0171c5812b31126e8375783da8d266faa2c05dfa0",
+    "source_normalized_fragment": "已預約的乘客可使用地面層B出口的匯民道上落客區候車。",
+    "coordinate_status": "not_verified_do_not_geocode_from_diagram"
+  }
+]

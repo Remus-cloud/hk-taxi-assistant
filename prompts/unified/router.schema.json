@@ -1,0 +1,184 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "tasks",
+    "action",
+    "origin",
+    "destination",
+    "origin_choice",
+    "destination_choice",
+    "conditions",
+    "rag_query",
+    "clarification"
+  ],
+  "properties": {
+    "tasks": {
+      "type": "array",
+      "minItems": 0,
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "rules",
+          "journey",
+          "live_queue",
+          "out_of_scope",
+          "general"
+        ]
+      }
+    },
+    "action": {
+      "enum": [
+        "keep",
+        "update",
+        "new",
+        "reverse",
+        "clarify"
+      ]
+    },
+    "origin": {
+      "anyOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "query",
+            "kind"
+          ],
+          "properties": {
+            "query": {
+              "type": "string",
+              "minLength": 1
+            },
+            "kind": {
+              "enum": [
+                "auto",
+                "place",
+                "area"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "destination": {
+      "anyOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "query",
+            "kind"
+          ],
+          "properties": {
+            "query": {
+              "type": "string",
+              "minLength": 1
+            },
+            "kind": {
+              "enum": [
+                "auto",
+                "place",
+                "area"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "origin_choice": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "destination_choice": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "conditions": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "luggage",
+        "taxi_type"
+      ],
+      "properties": {
+        "luggage": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "taxi_type": {
+          "enum": [
+            null,
+            "urban",
+            "nt",
+            "lantau"
+          ]
+        },
+        "boarding_type": {
+          "enum": [
+            null,
+            "ordinary",
+            "cross_harbour_stand"
+          ]
+        }
+      }
+    },
+    "rag_query": {
+      "type": "string"
+    },
+    "clarification": {
+      "type": "string"
+    },
+    "via": {
+      "anyOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "array",
+          "maxItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "query",
+              "kind"
+            ],
+            "properties": {
+              "query": {
+                "type": "string",
+                "minLength": 1
+              },
+              "kind": {
+                "enum": [
+                  "auto",
+                  "place",
+                  "area"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    "access_update": {
+      "enum": [
+        null,
+        "origin",
+        "destination"
+      ]
+    }
+  }
+}

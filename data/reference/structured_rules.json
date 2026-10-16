@@ -1,0 +1,125 @@
+{
+  "guard_coverage": [
+    [
+      "C01",
+      "{\"id\": \"C01\", \"topic\": \"luggage_initial_effective_date\", \"status\": \"not_established_in_reviewed_sources\", \"value\": null, \"basis_evidence_ids\": [\"E05\", \"E15\"], \"scope\": \"仅本审阅包；不是所有官方资料均不存在\", \"allowed_answer\": \"本次核验资料不能确认行李每件6元收费的起始日期；新闻说维持6元。\"}"
+    ],
+    [
+      "C02",
+      "{\"id\": \"C02\", \"topic\": \"light_baggage_complete_legal_definition\", \"status\": \"not_established_in_reviewed_sources\", \"value\": null, \"basis_evidence_ids\": [\"E06\", \"E09\", \"E11\"], \"allowed_answer\": \"这些资料给出收费/豁免条件，不能据此认定轻便行李的完整法定定义。\"}"
+    ],
+    [
+      "C03",
+      "{\"id\": \"C03\", \"topic\": \"light_baggage_weight_kg_limit\", \"status\": \"not_present_in_reviewed_passages\", \"value\": null, \"basis_evidence_ids\": [\"E06\", \"E09\", \"E11\"], \"allowed_answer\": \"本次提供的相关段落未给出公斤上限。\"}"
+    ]
+  ],
+  "guard_evidence": [
+    [
+      "E01",
+      "{\"evidence_id\": \"E01\", \"source_id\": \"GOV\", \"quote_original\": \"運輸署今日（七月十三日）宣布，巿區、新界及大嶼山的士新收費將由明日（七月十四日）起生效。\", \"locator\": \"press release opening paragraph\", \"extracted_start_char\": 87, \"extracted_end_char_exclusive\": 131, \"chunk_ids\": [\"official_three_category_fares-b9b2ed02cf7f\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E02",
+      "{\"evidence_id\": \"E02\", \"source_id\": \"GOV\", \"quote_original\": \"2024年7月13日（星期六）\", \"locator\": \"publication footer; year anchor, not fare effective date\", \"extracted_start_char\": 676, \"extracted_end_char_exclusive\": 691, \"chunk_ids\": [\"official_three_category_fares-b9b2ed02cf7f\"], \"role\": \"date_context_only\"}"
+    ],
+    [
+      "E03",
+      "{\"evidence_id\": \"E03\", \"source_id\": \"TD\", \"quote_original\": \"首 2 公里或其任何部分\\n$ 29\", \"locator\": \"市區的士收費表 > 首2公里 row\", \"extracted_start_char\": 115, \"extracted_end_char_exclusive\": 132, \"chunk_ids\": [\"fare_urban-34049e5ab444\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E04",
+      "{\"evidence_id\": \"E04\", \"source_id\": \"GOV\", \"quote_original\": \"落旗收費\\n最初兩公里或其任何部分\\n29元\\n25.5元\\n24元\", \"locator\": \"table: headers urban/NT/Lantau; preserve header mapping\", \"extracted_start_char\": 177, \"extracted_end_char_exclusive\": 207, \"chunk_ids\": [\"official_three_category_fares-b9b2ed02cf7f\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E05",
+      "{\"evidence_id\": \"E05\", \"source_id\": \"GOV\", \"quote_original\": \"至於三類的士的附加車費，乘客所攜帶的每件行李（擺放在乘客車廂內的輕便行李除外）的收費會維持為6元；\", \"locator\": \"additional-fare paragraph; unchanged amount, not first-effective date\", \"extracted_start_char\": 350, \"extracted_end_char_exclusive\": 399, \"chunk_ids\": [\"official_three_category_fares-b9b2ed02cf7f\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E06",
+      "{\"evidence_id\": \"E06\", \"source_id\": \"TD\", \"quote_original\": \"每件行李（擺放在乘客車廂內的輕便行李除外）\\n$ 6\", \"locator\": \"市區的士收費表 > 其他收費 > 每件行李\", \"extracted_start_char\": 206, \"extracted_end_char_exclusive\": 231, \"chunk_ids\": [\"fare_urban-34049e5ab444\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E07",
+      "{\"evidence_id\": \"E07\", \"source_id\": \"TD\", \"quote_original\": \"每件行李（擺放在乘客車廂內的輕便行李除外）\\n$ 6\", \"locator\": \"新界的士收費表 > 其他收費 > 每件行李\", \"extracted_start_char\": 560, \"extracted_end_char_exclusive\": 585, \"chunk_ids\": [\"fare_nt-0d881f0fa13a\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E08",
+      "{\"evidence_id\": \"E08\", \"source_id\": \"TD\", \"quote_original\": \"每件行李（擺放在乘客車廂內的輕便行李除外）\\n$ 6\", \"locator\": \"大嶼山的士收費表 > 其他收費 > 每件行李\", \"extracted_start_char\": 773, \"extracted_end_char_exclusive\": 798, \"chunk_ids\": [\"fare_lantau-f9fcd2cc5648\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E09",
+      "{\"evidence_id\": \"E09\", \"source_id\": \"TD\", \"quote_original\": \"一般來說，司機可就下列行李，收取行李附加費：\", \"locator\": \"乘客須知 > 1.行李附加費 > governing qualifier\", \"extracted_start_char\": 860, \"extracted_end_char_exclusive\": 882, \"chunk_ids\": [\"luggage_conditions-107737d6d42e\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E10",
+      "{\"evidence_id\": \"E10\", \"source_id\": \"TD\", \"quote_original\": \"每件擺放在車尾行李廂內的行李；或\", \"locator\": \"乘客須知 > 1.行李附加費 > first condition\", \"extracted_start_char\": 883, \"extracted_end_char_exclusive\": 899, \"chunk_ids\": [\"luggage_conditions-107737d6d42e\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E11",
+      "{\"evidence_id\": \"E11\", \"source_id\": \"TD\", \"quote_original\": \"每件擺放在車廂內而長、闊、高總和超過140厘米的行李。\", \"locator\": \"乘客須知 > 1.行李附加費 > second condition\", \"extracted_start_char\": 900, \"extracted_end_char_exclusive\": 927, \"chunk_ids\": [\"luggage_conditions-107737d6d42e\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E12",
+      "{\"evidence_id\": \"E12\", \"source_id\": \"TD\", \"quote_original\": \"嬰兒車亦需按照上述準則繳付行李附加費。\", \"locator\": \"乘客須知 > 1.行李附加費 > stroller\", \"extracted_start_char\": 928, \"extracted_end_char_exclusive\": 947, \"chunk_ids\": [\"luggage_conditions-107737d6d42e\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E13",
+      "{\"evidence_id\": \"E13\", \"source_id\": \"TD\", \"quote_original\": \"殘疾乘客的輪椅及拐杖無須收費。\", \"locator\": \"乘客須知 > 1.行李附加費 > explicit exemption\", \"extracted_start_char\": 948, \"extracted_end_char_exclusive\": 963, \"chunk_ids\": [\"luggage_conditions-107737d6d42e\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E14",
+      "{\"evidence_id\": \"E14\", \"source_id\": \"TD\", \"quote_original\": \"傷殘人士乘客賴以行動的輪椅及拐杖\\n免費\", \"locator\": \"three category tables > mobility aids; saved occurrence is urban table\", \"extracted_start_char\": 232, \"extracted_end_char_exclusive\": 251, \"chunk_ids\": [\"fare_urban-34049e5ab444\", \"fare_nt-0d881f0fa13a\", \"fare_lantau-f9fcd2cc5648\"], \"role\": \"direct_source_text\"}"
+    ],
+    [
+      "E15",
+      "{\"evidence_id\": \"E15\", \"source_id\": \"TD\", \"quote_original\": \"的士收費詳情（由2024年7月14日起生效）\", \"locator\": \"page heading; context only, does not establish initial surcharge date\", \"extracted_start_char\": 56, \"extracted_end_char_exclusive\": 78, \"chunk_ids\": [\"fare_urban-34049e5ab444\", \"fare_nt-0d881f0fa13a\", \"fare_lantau-f9fcd2cc5648\"], \"role\": \"date_context_only\"}"
+    ]
+  ],
+  "guard_rules": [
+    [
+      "R01",
+      "approved",
+      "{\"rule_id\": \"R01\", \"version\": \"structured-guard-v1\", \"approval_status\": \"approved\", \"executable\": false, \"title\": \"市区起步价与首段距离\", \"claim_type\": \"tariff\", \"taxi_types\": [\"urban\"], \"value\": {\"amount_cent\": 2900, \"currency\": \"HKD\", \"base_distance_m\": 2000, \"partial_distance_included\": true}, \"predicate\": null, \"normative_strength\": null, \"effective_from\": \"2024-07-14\", \"effective_from_meaning\": \"start of this evidenced rate revision, not first historical existence of the fee\", \"date_evidence_status\": \"direct_revision_date\", \"date_evidence_ids\": [\"E01\", \"E02\", \"E03\", \"E04\"], \"effective_until\": null, \"verified_as_of\": \"2026-10-15\", \"evidence_ids\": [\"E03\", \"E04\"], \"exception_rule_ids\": [], \"allowed_conclusions\": [\"市区的士首2公里或其任何部分为29港元；该次费率自2024-07-14生效。\"], \"prohibited_inferences\": [\"不将该日期用于行李附加费；不推断所有历史起步价均从该日起存在。\"], \"current_fare_execution_enabled\": false}"
+    ],
+    [
+      "R02",
+      "approved",
+      "{\"rule_id\": \"R02\", \"version\": \"structured-guard-v1\", \"approval_status\": \"approved\", \"executable\": false, \"title\": \"三类的士普通应收费行李每件6元\", \"claim_type\": \"surcharge_amount\", \"taxi_types\": [\"urban\", \"new_territories\", \"lantau\"], \"value\": {\"amount_cent\": 600, \"currency\": \"HKD\", \"billing_unit\": \"chargeable_piece\"}, \"predicate\": null, \"normative_strength\": null, \"effective_from\": null, \"effective_from_meaning\": \"start of this evidenced rate revision, not first historical existence of the fee\", \"date_evidence_status\": \"not_established_in_reviewed_sources\", \"date_evidence_ids\": [], \"effective_until\": null, \"verified_as_of\": \"2026-10-15\", \"evidence_ids\": [\"E05\", \"E06\", \"E07\", \"E08\"], \"exception_rule_ids\": [\"R05\", \"R06\"], \"allowed_conclusions\": [\"符合收费条件且不属豁免的普通行李每件6港元。\"], \"prohibited_inferences\": [\"维持6元不能推断2024-07-14首次生效；不能将未知生效日说成该费用不存在；不能自动并入行程总价。\"], \"current_fare_execution_enabled\": false}"
+    ],
+    [
+      "R03",
+      "approved",
+      "{\"rule_id\": \"R03\", \"version\": \"structured-guard-v1\", \"approval_status\": \"approved\", \"executable\": false, \"title\": \"车尾行李厢内行李的收费条件\", \"claim_type\": \"charge_condition\", \"taxi_types\": [\"urban\", \"new_territories\", \"lantau\"], \"value\": null, \"predicate\": {\"all\": [{\"field\": \"storage_location\", \"op\": \"eq\", \"value\": \"trunk\"}]}, \"normative_strength\": \"may_charge_general\", \"effective_from\": null, \"effective_from_meaning\": \"start of this evidenced rate revision, not first historical existence of the fee\", \"date_evidence_status\": \"not_established_in_reviewed_sources\", \"date_evidence_ids\": [], \"effective_until\": null, \"verified_as_of\": \"2026-10-15\", \"evidence_ids\": [\"E09\", \"E10\"], \"exception_rule_ids\": [\"R06\"], \"allowed_conclusions\": [\"一般来说，放车尾行李厢的普通行李可按规定收行李附加费，先核对豁免。\"], \"prohibited_inferences\": [\"小件或尺寸不足140厘米不自动豁免车尾箱行李；不得覆盖轮椅拐杖豁免；可不改成一概必须。\"], \"current_fare_execution_enabled\": false}"
+    ],
+    [
+      "R04",
+      "approved",
+      "{\"rule_id\": \"R04\", \"version\": \"structured-guard-v1\", \"approval_status\": \"approved\", \"executable\": false, \"title\": \"车厢内尺寸总和严格超过140厘米\", \"claim_type\": \"charge_condition\", \"taxi_types\": [\"urban\", \"new_territories\", \"lantau\"], \"value\": null, \"predicate\": {\"all\": [{\"field\": \"storage_location\", \"op\": \"eq\", \"value\": \"passenger_compartment\"}, {\"field\": \"length_cm + width_cm + height_cm\", \"op\": \"gt\", \"value\": \"140\", \"numeric_type\": \"Decimal\", \"unit\": \"cm\"}]}, \"normative_strength\": \"may_charge_general\", \"effective_from\": null, \"effective_from_meaning\": \"start of this evidenced rate revision, not first historical existence of the fee\", \"date_evidence_status\": \"not_established_in_reviewed_sources\", \"date_evidence_ids\": [], \"effective_until\": null, \"verified_as_of\": \"2026-10-15\", \"evidence_ids\": [\"E09\", \"E11\"], \"exception_rule_ids\": [\"R06\"], \"allowed_conclusions\": [\"140厘米未触发这一尺寸条件，141厘米触发；结论只涉及该条件。\"], \"prohibited_inferences\": [\"不得改成>=140；未触发条件不自动等于完整轻便行李定义；未触发不自动证明任何情况下最终免费。\"], \"current_fare_execution_enabled\": false}"
+    ],
+    [
+      "R05",
+      "approved",
+      "{\"rule_id\": \"R05\", \"version\": \"structured-guard-v1\", \"approval_status\": \"approved\", \"executable\": false, \"title\": \"乘客车厢内轻便行李豁免\", \"claim_type\": \"exemption\", \"taxi_types\": [\"urban\", \"new_territories\", \"lantau\"], \"value\": {\"surcharge_cent\": 0}, \"predicate\": {\"all\": [{\"field\": \"storage_location\", \"op\": \"eq\", \"value\": \"passenger_compartment\"}, {\"field\": \"light_baggage_status\", \"op\": \"eq\", \"value\": \"confirmed\"}]}, \"normative_strength\": null, \"effective_from\": null, \"effective_from_meaning\": \"start of this evidenced rate revision, not first historical existence of the fee\", \"date_evidence_status\": \"not_established_in_reviewed_sources\", \"date_evidence_ids\": [], \"effective_until\": null, \"verified_as_of\": \"2026-10-15\", \"evidence_ids\": [\"E05\", \"E06\", \"E07\", \"E08\"], \"exception_rule_ids\": [], \"allowed_conclusions\": [\"原文明确豁免摆放在乘客车厢内的轻便行李。\"], \"prohibited_inferences\": [\"不把140厘米条件当作完整法定定义；不从“小背包”名称直接断言已确认轻便类别；unknown不能默认为confirmed。\"], \"current_fare_execution_enabled\": false}"
+    ],
+    [
+      "R06",
+      "approved",
+      "{\"rule_id\": \"R06\", \"version\": \"structured-guard-v1\", \"approval_status\": \"approved\", \"executable\": false, \"title\": \"残疾乘客赖以行动的轮椅及拐杖豁免\", \"claim_type\": \"exemption\", \"taxi_types\": [\"urban\", \"new_territories\", \"lantau\"], \"value\": {\"surcharge_cent\": 0}, \"predicate\": {\"all\": [{\"field\": \"item_type\", \"op\": \"in\", \"value\": [\"wheelchair\", \"crutch\"]}, {\"field\": \"mobility_aid_for_disabled_passenger\", \"op\": \"eq\", \"value\": true}]}, \"normative_strength\": null, \"effective_from\": null, \"effective_from_meaning\": \"start of this evidenced rate revision, not first historical existence of the fee\", \"date_evidence_status\": \"not_established_in_reviewed_sources\", \"date_evidence_ids\": [], \"effective_until\": null, \"verified_as_of\": \"2026-10-15\", \"evidence_ids\": [\"E13\", \"E14\"], \"exception_rule_ids\": [], \"allowed_conclusions\": [\"按证据中的乘客与用途条件，轮椅及拐杖免行李附加费；拟在一般存放/尺寸条件之前处理。\"], \"prohibited_inferences\": [\"不能推广所有椅子、任意轮椅货物或其他未核验器具；用途不明不自动套用。\"], \"current_fare_execution_enabled\": false}"
+    ],
+    [
+      "R07",
+      "approved",
+      "{\"rule_id\": \"R07\", \"version\": \"structured-guard-v1\", \"approval_status\": \"approved\", \"executable\": false, \"title\": \"婴儿车适用同一组收费准则\", \"claim_type\": \"condition_reference\", \"taxi_types\": [\"urban\", \"new_territories\", \"lantau\"], \"value\": null, \"predicate\": {\"field\": \"item_type\", \"op\": \"eq\", \"value\": \"stroller\"}, \"normative_strength\": null, \"effective_from\": null, \"effective_from_meaning\": \"start of this evidenced rate revision, not first historical existence of the fee\", \"date_evidence_status\": \"not_established_in_reviewed_sources\", \"date_evidence_ids\": [], \"effective_until\": null, \"verified_as_of\": \"2026-10-15\", \"evidence_ids\": [\"E09\", \"E10\", \"E11\", \"E12\"], \"exception_rule_ids\": [], \"allowed_conclusions\": [\"婴儿车按照上述存放位置与尺寸准则处理。\"], \"prohibited_inferences\": [\"不能说所有婴儿车一律收费或一律免费；不自动当成残疾乘客轮椅。\"], \"current_fare_execution_enabled\": false}"
+    ]
+  ],
+  "guard_sources": [
+    [
+      "GOV",
+      "{\"source_id\": \"GOV\", \"source_url\": \"https://www.info.gov.hk/gia/general/202407/13/P2024071200502.htm\", \"raw_sha256\": \"bf2e830f38720a9a762d405195b6df68ade9a5b9be79f2274630be444ab2c3c3\", \"extracted_path\": \"data/reference/evidence/GOV_text.txt\", \"extracted_sha256\": \"3fcc1c5a44b76274b69a41ec42cf183fdc6dfed303fe9b31944d3cfbe263d8a2\", \"extraction\": \"HTMLParser text nodes, strip individual nodes, join newline, exclude script/style; offsets refer to this saved text, not raw HTML\", \"verified_as_of\": \"2026-10-15\", \"published_at\": \"2024-07-13\", \"reverified_today\": false, \"raw_snapshot_required_at_runtime\": false}"
+    ],
+    [
+      "TD",
+      "{\"source_id\": \"TD\", \"source_url\": \"https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/taxi_fare_of_hong_kong/index.html\", \"raw_sha256\": \"4732ca19efb3cfd6c7dfc0b1e19b14bba259dbadf93e0b12f4fdf00fa79e2bfb\", \"extracted_path\": \"data/reference/evidence/TD_text.txt\", \"extracted_sha256\": \"7c05a20f59e3f47240679bc554a00536bd0b225b960392e89fb3b41fb44b92f1\", \"extraction\": \"HTMLParser text nodes, strip individual nodes, join newline, exclude script/style; offsets refer to this saved text, not raw HTML\", \"verified_as_of\": \"2026-10-15\", \"published_at\": null, \"reverified_today\": false, \"raw_snapshot_required_at_runtime\": false}"
+    ]
+  ]
+}

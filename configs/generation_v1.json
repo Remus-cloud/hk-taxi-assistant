@@ -1,0 +1,15 @@
+{
+  "status": "manual_api_probe_user_requested",
+  "provider": "aliyun_bailian",
+  "model": "qwen3.7-plus-2026-05-26",
+  "enable_thinking": false,
+  "temperature": 0.1,
+  "max_tokens": 1500,
+  "timeout_seconds": 60,
+  "max_retries": 0,
+  "stream": false,
+  "generation_calls_per_question": 1,
+  "automatic_model_fallback": false,
+  "rag_connected": false,
+  "retrieval_release": "retrieval-20261015-v1"
+}

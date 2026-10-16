@@ -1,0 +1,54 @@
+{
+  "version": "journey-multi-v1",
+  "approval_status": "approved",
+  "approved_on": "2026-10-15",
+  "search_radius_m": 400,
+  "dedup_distance_m": 40,
+  "max_candidates": 3,
+  "max_routes_per_request": 3,
+  "pilot_total_ors_budget": 12,
+  "timeout_seconds": 20,
+  "automatic_retries": 0,
+  "automatic_provider_fallback": false,
+  "area_policy": "representative_point_estimate_then_short_clarification",
+  "both_areas_route_pairs": 1,
+  "ranking_policy": "official urban taxi stand, explicit vehicle entrance, service/public-road junction, ground-road reference; preserve evidence-kind diversity",
+  "unknown_barrier_policy": "exclude gate node and interior service-road nodes without confirmed public access",
+  "area_price_range_scope": "only evaluated candidates, never the whole area or final fare",
+  "waiting_enabled": false,
+  "toll_amount_enabled": true,
+  "fare_scope": "urban_distance_plus_three_harbour_tolls",
+  "notes": [
+    "Absence of a restriction tag is not proof of legal curbside stopping.",
+    "OSM roads supplement official locations and taxi stands; no hardcoded library candidate IDs.",
+    "Session history is local; no global live-map response cache.",
+    "Different evidence types are retained so nearby official stands do not remove every entrance alternative."
+  ],
+  "place_resolution": {
+    "revision": "v2",
+    "area_policy": "query exact same-name station before geographic duplicates",
+    "name_completion": "unique cluster, one missing Chinese character, query length >=4",
+    "semantic_fallback": "same Qwen proposes aliases/visitor facilities; official API supplies coordinates",
+    "max_semantic_calls_per_endpoint": 1,
+    "max_official_proposed_queries": 2,
+    "visitor_hub_reference_radius_m": 400,
+    "note": "No place-name or coordinate lookup table; semantic queries must remain within the existing 400m landmark neighbourhood.",
+    "station_prefixes": "港铁/港鐵/MTR are transport labels, not part of the station identity"
+  },
+  "route_warning_policy": {
+    "nonblocking": {
+      "code": 1,
+      "message_contains": "restrictions on some roads"
+    },
+    "other_warnings": "retain review block",
+    "approved_by_user": true
+  },
+  "max_via": 1,
+  "harbour_toll_policy": {
+    "config": "configs/harbour_tolls_v1.json",
+    "default": "ordinary single hiring: actual toll plus return toll",
+    "cross_harbour_stand": "actual toll only",
+    "same_side_final_destination": "requires complete route with crossings; actual toll each crossing, no return surcharge",
+    "unsupported_or_unconfirmed": "show distance estimate and explicitly exclude unconfirmed charges"
+  }
+}

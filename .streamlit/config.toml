@@ -1,0 +1,36 @@
+[server]
+address = "127.0.0.1"
+port = 8501
+headless = true
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "none"
+
+[theme]
+base = "light"
+primaryColor = "#A66A12"
+backgroundColor = "#FCFAF5"
+secondaryBackgroundColor = "#F3EFE5"
+textColor = "#202720"
+borderColor = "#E2DDD2"
+linkColor = "#8A5A08"
+font = "sans-serif"
+headingFont = "sans-serif"
+headingFontSizes = ["40px", "28px", "22px", "18px", "16px", "14px"]
+headingFontWeights = [650, 600, 600, 600, 600, 600]
+baseRadius = "12px"
+buttonRadius = "10px"
+showWidgetBorder = true
+showSidebarBorder = true
+paddingTop = "1.4rem"
+paddingBottom = "1rem"
+
+[theme.sidebar]
+backgroundColor = "#F3EFE5"
+secondaryBackgroundColor = "#FCFAF5"
+paddingTop = "2rem"

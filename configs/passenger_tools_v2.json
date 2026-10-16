@@ -1,0 +1,23 @@
+{
+  "version": "passenger-tools-v2",
+  "approval": "user approved tool plan",
+  "facility_database": "data/processed/passenger_tools_v2/facilities-v2.1.duckdb",
+  "ordinary_stands_source_url": "https://data.gov.hk/en-data/dataset/hk-td-tis_37-taxi-stands",
+  "waiting_enabled": false,
+  "other_road_tolls_enabled": false,
+  "facility_limit": 3,
+  "urban_surcharges": {
+    "luggage_per_item_cent": 600,
+    "ordinary_phone_booking_cent": 500,
+    "animal_per_head_cent": 500
+  },
+  "fee_evidence": [
+    {
+      "path": "data/curated/chunks.jsonl",
+      "sha256": "4f2cefb387ec205e80f7f8f82d0f83301e5a31bf8b10e4577d4afa1b7b78c8e9",
+      "chunk_id": "fare_urban-34049e5ab444",
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/taxi_fare_of_hong_kong/index.html"
+    }
+  ],
+  "source_guard": "existing approved RuleStore predicates R03-R06"
+}

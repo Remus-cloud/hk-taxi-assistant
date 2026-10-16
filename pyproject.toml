@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools==84.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hk-taxi-assistant"
+version = "0.1.0"
+description = "Multilingual Hong Kong taxi assistant with hybrid retrieval and journey tools"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "numpy==2.5.4",
+  "sentence-transformers==6.1.0",
+  "rank-bm25==0.2.2",
+  "opencc-python-reimplemented==0.1.7",
+  "torch==2.10.0+cu128",
+  "transformers==5.19.0",
+  "duckdb==1.5.6",
+  "pyproj==3.8.0",
+  "openai==3.31.0",
+  "python-dotenv==1.2.4",
+  "jsonschema==4.26.0",
+  "streamlit==1.66.0",
+  "requests==2.34.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==9.1.1"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

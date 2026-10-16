@@ -1,0 +1,32 @@
+{
+  "status": "approved_for_pilot_and_distance_calculator_not_rag_integration",
+  "providers": {
+    "geocoding": "lands_location_search",
+    "routing": "ors"
+  },
+  "already_approved": {
+    "taxi_type": "urban",
+    "scope": "ordinary Hong Kong Island / Kowloon trips first",
+    "ambiguous_place": "clarify_first",
+    "waiting_scenarios_minutes": [
+      0,
+      5,
+      10
+    ]
+  },
+  "probe_note": "Standalone manual connection probe only; fixed 20s timeout, no retries/redirects, no fare output. Proposed route restrictions are not implemented by this probe.",
+  "approved_settings": {
+    "timeout_seconds": 20,
+    "automatic_retries": 0,
+    "automatic_provider_fallback": false,
+    "max_location_candidates_shown": 3,
+    "routing_profile": "driving-car",
+    "route_preference": "provider_default_unmodified",
+    "avoid_ferries_explicitly": true,
+    "cross_border_requests": "reject",
+    "unknown_tolls": "exclude_and_flag_not_zero",
+    "live_route_response_cache": "disabled_initially",
+    "initial_live_pilot_max_cases": 6
+  },
+  "approved_on": "2026-10-15"
+}

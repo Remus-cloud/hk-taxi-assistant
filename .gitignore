@@ -1,0 +1,53 @@
+# Local environments, caches and build outputs
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+htmlcov/
+build/
+dist/
+.ipynb_checkpoints/
+
+# Credentials; only the placeholder template is public
+.env
+.env.*
+*.env
+!.env.example
+.streamlit/secrets*.toml
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Generated assets; approved curated runtime inputs are committed
+/data/raw/
+/data/processed/
+/artifacts/
+/models/
+/local_notes/
+*.duckdb*
+*.sqlite*
+*.db
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# Machine-specific configuration and editor outputs
+/configs/*.local.*
+*.log
+*.tmp
+*.swp
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,318 @@
+{
+  "version": "harbour-tunnel-geometry-v1",
+  "source": "OpenStreetMap",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "downloaded_at": "2026-10-15T19:28:57.238836+00:00",
+  "tunnels": [
+    {
+      "tunnel_id": "western",
+      "name": "西區海底隧道",
+      "name_en": "WESTERN HARBOUR CROSSING",
+      "ways": [
+        {
+          "way_id": "681882521",
+          "name": "西區海底隧道 Western Harbour Crossing",
+          "coordinates": [
+            [
+              114.1558595,
+              22.3003729
+            ],
+            [
+              114.1566148,
+              22.3012233
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/681882521"
+        },
+        {
+          "way_id": "1195057122",
+          "name": "西區海底隧道 Western Harbour Crossing",
+          "coordinates": [
+            [
+              114.156716,
+              22.3011414
+            ],
+            [
+              114.1561405,
+              22.3005102
+            ],
+            [
+              114.1466974,
+              22.2902979
+            ],
+            [
+              114.1464943,
+              22.2900783
+            ],
+            [
+              114.1462178,
+              22.2897959
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/1195057122"
+        },
+        {
+          "way_id": "1195057123",
+          "name": "西區海底隧道 Western Harbour Crossing",
+          "coordinates": [
+            [
+              114.1461329,
+              22.2898986
+            ],
+            [
+              114.1463679,
+              22.2901391
+            ],
+            [
+              114.1554729,
+              22.2999561
+            ],
+            [
+              114.1558595,
+              22.3003729
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/1195057123"
+        }
+      ],
+      "acquisition_url": "https://www.openstreetmap.org/api/0.6/map?bbox=114.15255293986769%2C22.29773925778934%2C114.16420432588166%2C22.30851899188923",
+      "raw_sha256": "63cc1ca463764262b6e694e7d1dd9b58a888f79d10bcac5a7a9181f9539464b0"
+    },
+    {
+      "tunnel_id": "cross_harbour",
+      "name": "海底隧道",
+      "name_en": "CROSS HARBOUR TUNNEL",
+      "ways": [
+        {
+          "way_id": "45740459",
+          "name": "海底隧道 Cross-Harbour Tunnel",
+          "coordinates": [
+            [
+              114.1805967,
+              22.3001336
+            ],
+            [
+              114.1806734,
+              22.2997263
+            ],
+            [
+              114.180803,
+              22.2989629
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/45740459"
+        },
+        {
+          "way_id": "681882518",
+          "name": "海底隧道 Cross-Harbour Tunnel",
+          "coordinates": [
+            [
+              114.1806732,
+              22.299092
+            ],
+            [
+              114.1805723,
+              22.2997
+            ],
+            [
+              114.1805017,
+              22.3001039
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/681882518"
+        },
+        {
+          "way_id": "958534955",
+          "name": "海底隧道 Cross-Harbour Tunnel",
+          "coordinates": [
+            [
+              114.1830717,
+              22.2846466
+            ],
+            [
+              114.1806978,
+              22.2989438
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/958534955"
+        },
+        {
+          "way_id": "958534957",
+          "name": "海底隧道 Cross-Harbour Tunnel",
+          "coordinates": [
+            [
+              114.180803,
+              22.2989629
+            ],
+            [
+              114.1831868,
+              22.2846585
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/958534957"
+        },
+        {
+          "way_id": "958534958",
+          "name": "海底隧道 Cross-Harbour Tunnel",
+          "coordinates": [
+            [
+              114.1806978,
+              22.2989438
+            ],
+            [
+              114.1806732,
+              22.299092
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/958534958"
+        }
+      ],
+      "acquisition_url": "https://www.openstreetmap.org/api/0.6/map?bbox=114.17556923645607%2C22.289725899213973%2C114.18721995418834%2C22.300505633313865",
+      "raw_sha256": "544afe23df6500c30487ea04ab0eeb331a3e29ab12de867937d1d28eb4de14d8"
+    },
+    {
+      "tunnel_id": "eastern",
+      "name": "東區海底隧道",
+      "name_en": "EASTERN HARBOUR CROSSING",
+      "ways": [
+        {
+          "way_id": "157811791",
+          "name": "東區海底隧道 Eastern Harbour Crossing",
+          "coordinates": [
+            [
+              114.2119691,
+              22.2892502
+            ],
+            [
+              114.2119968,
+              22.2893501
+            ],
+            [
+              114.212042,
+              22.2894625
+            ],
+            [
+              114.2121124,
+              22.289584
+            ],
+            [
+              114.2122184,
+              22.2897149
+            ],
+            [
+              114.2123296,
+              22.289823
+            ],
+            [
+              114.2124636,
+              22.2899171
+            ],
+            [
+              114.2126445,
+              22.2900156
+            ],
+            [
+              114.2133861,
+              22.2903242
+            ],
+            [
+              114.2136114,
+              22.2904263
+            ],
+            [
+              114.2297659,
+              22.2988656
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/157811791"
+        },
+        {
+          "way_id": "157811796",
+          "name": "東區海底隧道 Eastern Harbour Crossing",
+          "coordinates": [
+            [
+              114.2310722,
+              22.2994352
+            ],
+            [
+              114.2306521,
+              22.2992112
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/157811796"
+        },
+        {
+          "way_id": "310075912",
+          "name": "東區海底隧道 Eastern Harbour Crossing",
+          "coordinates": [
+            [
+              114.2301503,
+              22.2990812
+            ],
+            [
+              114.2305856,
+              22.2993075
+            ],
+            [
+              114.2310273,
+              22.2995371
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/310075912"
+        },
+        {
+          "way_id": "681882496",
+          "name": "東區海底隧道 Eastern Harbour Crossing",
+          "coordinates": [
+            [
+              114.2302195,
+              22.2989804
+            ],
+            [
+              114.2298199,
+              22.2987714
+            ],
+            [
+              114.2130559,
+              22.2900029
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/681882496"
+        },
+        {
+          "way_id": "1028883828",
+          "name": "東區海底隧道 Eastern Harbour Crossing",
+          "coordinates": [
+            [
+              114.2297659,
+              22.2988656
+            ],
+            [
+              114.2301503,
+              22.2990812
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/1028883828"
+        },
+        {
+          "way_id": "1028883829",
+          "name": "東區海底隧道 Eastern Harbour Crossing",
+          "coordinates": [
+            [
+              114.2306521,
+              22.2992112
+            ],
+            [
+              114.2302195,
+              22.2989804
+            ]
+          ],
+          "source_url": "https://www.openstreetmap.org/way/1028883829"
+        }
+      ],
+      "acquisition_url": "https://www.openstreetmap.org/api/0.6/map?bbox=114.22940931547683%2C22.297032544976133%2C114.24106064254156%2C22.307812279076025",
+      "raw_sha256": "dfa943e512f9354317b14198f42b1c9e3e84540aca8f392ea9af26774f5e67fb"
+    }
+  ]
+}

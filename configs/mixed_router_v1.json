@@ -1,0 +1,40 @@
+{
+  "status": "approved_opt_in_experiment",
+  "top_k": 5,
+  "old_router_fallback": true,
+  "mixed_trigger": "at least two distinct requested topics with taxi or route-fare context; topic detection never reads evaluation files",
+  "domain_pattern": "的士|出租车",
+  "other_transport_pattern": "地铁|巴士|公交|火车|高铁票|步行",
+  "route_pattern": "(?:从|由)?(港珠澳大桥香港口岸|香港国际机场|香港机场|机场|香港口岸)(?:出发)?(?:到|至|去|前往)|从.{1,20}(?:到|去|至).{1,20}",
+  "known_origin_pattern": "(?:从|由)?(港珠澳大桥香港口岸|香港国际机场|香港机场|机场|香港口岸)(?:出发)?(?:到|至|去|前往)",
+  "cost_pattern": "多少钱|车费|费用|估价|报价|总价|大约|估算|参考.{0,8}多少|指南.{0,8}多少|大概.{0,8}多少",
+  "patterns": {
+    "receipt": "收据|打印机|机印|手写",
+    "payment": "信用卡|visa|八达通|扫码|二维码|电子支付|现金|支付方式|付款方式",
+    "payment_failure": "不能用|不收|不接受|无法|用不了|失败|不能刷",
+    "payment_requirement": "必须|要求|至少|提供|符合|合规",
+    "luggage": "行李|尾箱|后备箱|背包|婴儿车|轮椅|拐杖|车厢.{0,8}包",
+    "luggage_question": "收费|行李费|费用|多少|钱|免费|一律|算|尺寸|条件",
+    "fare_schedule": "起步|落旗|头两公里|首.{0,2}公里|跳表|费率|每分钟|每公里|每200|后续计费|后续收费",
+    "waiting": "等候|堵车|按表|计价|实际车费",
+    "operating_scope": "能不能.{0,8}(?:去|送|到)|可以.{0,8}(?:去|送|到)|经营范围|营运范围|服务范围"
+  },
+  "hints": {
+    "route_reference": "的士 官方指南 参考车费",
+    "receipt": "的士 车费收据",
+    "payment_card_fallback": "的士 信用卡不能用 替代支付方式",
+    "payment_requirement": "的士 电子支付要求",
+    "payment_cash": "的士 现金支付",
+    "payment_method_check": "的士 接受的支付方式",
+    "payment_mismatch": "的士 支付方式不适用",
+    "luggage_conditions": "的士 行李附加费 收费条件 车厢 尾箱",
+    "luggage_amount": "的士 每件行李收费",
+    "fare_schedule": "的士 收费表 计费单位",
+    "actual_fare_conditions": "的士 实际车费 距离 等候 附加费用",
+    "operating_scope": "的士 经营范围",
+    "meter_basis": "的士 按表计价依据"
+  },
+  "optional_meter": "only mixed route queries with explicit waiting/actual-calculation terms, after requested-topic reservations; no generic meter subquery",
+  "query_merge": "existing RRF=60; topic ranks and global ranks are logged separately",
+  "no_new_destination_filter": true
+}

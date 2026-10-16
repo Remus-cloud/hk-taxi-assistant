@@ -1,0 +1,20 @@
+{
+  "status": "user_approved_pilot",
+  "retrieval_variant": "topic_protection",
+  "system_prompt": "prompts/rag_answer_v1.system.txt",
+  "user_template": "prompts/rag_answer_v1.user.template.txt",
+  "schema": "prompts/rag_answer_v1.schema.json",
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "language_default": "zh-Hans",
+  "source_ids_per_request": true,
+  "schema_validation": "local_jsonschema_and_source_membership",
+  "provider_json_mode": false,
+  "pilot_call_limit": 16,
+  "auto_retry": false,
+  "auto_regenerate_invalid_json": false,
+  "llm_judge": false
+}

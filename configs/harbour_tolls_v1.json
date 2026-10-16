@@ -1,0 +1,40 @@
+{
+  "version": "harbour-tolls-v1",
+  "approval_status": "approved",
+  "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/taxi_fare_of_hong_kong/index.html",
+  "geometry_file": "data/reference/harbour_geometry_v1.json",
+  "match_tolerance_m": 40,
+  "minimum_match_m": 200,
+  "default_return_toll": "ordinary_single_hiring",
+  "max_via": 1,
+  "exemptions": [
+    "cross_harbour_stand",
+    "same_side_final_destination"
+  ],
+  "rules": [
+    {
+      "tunnel_id": "western",
+      "name": "西區海底隧道",
+      "toll_cent": 2500,
+      "return_cent": 2500,
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/taxi_fare_of_hong_kong/index.html",
+      "evidence_text": "海底隧道、東區海底隧道、西區海底隧道：$25（隧道費）+$25（回程費）。在過海的士站上車；或最終目的地非位於海港的另一方，乘客毋須繳付回程費。"
+    },
+    {
+      "tunnel_id": "cross_harbour",
+      "name": "海底隧道",
+      "toll_cent": 2500,
+      "return_cent": 2500,
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/taxi_fare_of_hong_kong/index.html",
+      "evidence_text": "海底隧道、東區海底隧道、西區海底隧道：$25（隧道費）+$25（回程費）。在過海的士站上車；或最終目的地非位於海港的另一方，乘客毋須繳付回程費。"
+    },
+    {
+      "tunnel_id": "eastern",
+      "name": "東區海底隧道",
+      "toll_cent": 2500,
+      "return_cent": 2500,
+      "source_url": "https://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/taxi/taxi_fare_of_hong_kong/index.html",
+      "evidence_text": "海底隧道、東區海底隧道、西區海底隧道：$25（隧道費）+$25（回程費）。在過海的士站上車；或最終目的地非位於海港的另一方，乘客毋須繳付回程費。"
+    }
+  ]
+}
