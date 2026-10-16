@@ -1,6 +1,7 @@
 # 港的通 · HK Taxi Assistant
 
 **面向香港乘客与游客的多语言出行助手。**
+**A multilingual Hong Kong taxi assistant for locals and visitors.**
 
 将官方资料问答、分类站点查询、路线规划和费用估算接入同一对话入口。支持简体中文、繁體中文与 English，能够结合多轮补充更新行程，并展示回答来源与费用分项。
 
